@@ -1,0 +1,871 @@
+"","Measure","Attribute","Value","Category","Date"
+"1","Neopanamax Vessels (beam 107 and Over)","Available","217","Booking Slots",2017-12-01
+"2","Large Vessels (beam 91' and over)","Available","465","Booking Slots",2017-12-01
+"3","Regular Vessels (beam less than 91')","Available","248","Booking Slots",2017-12-01
+"4","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2017-12-01
+"5","Auctioned booking slots","Available","9","Booking Slots",2017-12-01
+"6","Neopanamax Vessels (beam 107 and Over)","Used","171","Booking Slots",2017-12-01
+"7","Large Vessels (beam 91' and over)","Used","3671","Booking Slots",2017-12-01
+"8","Regular Vessels (beam less than 91')","Used","1791","Booking Slots",2017-12-01
+"9","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2017-12-01
+"10","Auctioned booking slots","Used","0","Booking Slots",2017-12-01
+"11","Neopanamax Vessels (beam 107 and Over)","Percentage","7880","Booking Slots",2017-12-01
+"12","Large Vessels (beam 91' and over)","Percentage","7892","Booking Slots",2017-12-01
+"13","Regular Vessels (beam less than 91')","Percentage","7218","Booking Slots",2017-12-01
+"14","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2017-12-01
+"15","Auctioned booking slots","Percentage","000","Booking Slots",2017-12-01
+"16","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2016-12-01
+"17","Large Vessels (91' to 107’ beam)","Available","527","Booking Slots",2016-12-01
+"18","Regular Vessels (beam less than 91')","Available","248","Booking Slots",2016-12-01
+"19","Regular Vessels (up to 300' in length)","Available","3","Booking Slots",2016-12-01
+"20","Auctioned booking slots","Available","15","Booking Slots",2016-12-01
+"21","Neopanamax Vessels (beam 107' and over)","Used","140","Booking Slots",2016-12-01
+"22","Large Vessels (91' to 107’ beam)","Used","4271","Booking Slots",2016-12-01
+"23","Regular Vessels (beam less than 91')","Used","1931","Booking Slots",2016-12-01
+"24","Regular Vessels (up to 300' in length)","Used","3","Booking Slots",2016-12-01
+"25","Auctioned booking slots","Used","1","Booking Slots",2016-12-01
+"26","Neopanamax Vessels (beam 107' and over)","Percentage","2775","Booking Slots",2016-12-01
+"27","Large Vessels (91' to 107’ beam)","Percentage","8102","Booking Slots",2016-12-01
+"28","Regular Vessels (beam less than 91')","Percentage","7782","Booking Slots",2016-12-01
+"29","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2016-12-01
+"30","Auctioned booking slots","Percentage","667","Booking Slots",2016-12-01
+"31","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2018-12-01
+"32","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2018-12-01
+"33","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2018-12-01
+"34","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2018-12-01
+"35","Auctioned booking slots","Available","0","Booking Slots",2018-12-01
+"36","Neopanamax Vessels (107’ beam and Over)","Used","194","Booking Slots",2018-12-01
+"37","Large Vessels (91’ beam to under 107’ beam)","Used","2751","Booking Slots",2018-12-01
+"38","Regular Vessels (less than 91' beam)","Used","1401","Booking Slots",2018-12-01
+"39","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2018-12-01
+"40","Auctioned booking slots","Used","0","Booking Slots",2018-12-01
+"41","Neopanamax Vessels (107’ beam and Over)","Percentage","7823","Booking Slots",2018-12-01
+"42","Large Vessels (91’ beam to under 107’ beam)","Percentage","5914","Booking Slots",2018-12-01
+"43","Regular Vessels (less than 91' beam)","Percentage","5645","Booking Slots",2018-12-01
+"44","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2018-12-01
+"45","Auctioned booking slots","Percentage","0","Booking Slots",2018-12-01
+"46","Neopanamax Vessels (beam 107 and Over)","Available","217","Booking Slots",2018-01-01
+"47","Large Vessels (beam 91' and over)","Available","465","Booking Slots",2018-01-01
+"48","Regular Vessels (beam less than 91')","Available","248","Booking Slots",2018-01-01
+"49","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2018-01-01
+"50","Auctioned booking slots","Available","7","Booking Slots",2018-01-01
+"51","Neopanamax Vessels (beam 107 and Over)","Used","172","Booking Slots",2018-01-01
+"52","Large Vessels (beam 91' and over)","Used","3581","Booking Slots",2018-01-01
+"53","Regular Vessels (beam less than 91')","Used","1711","Booking Slots",2018-01-01
+"54","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2018-01-01
+"55","Auctioned booking slots","Used","1","Booking Slots",2018-01-01
+"56","Neopanamax Vessels (beam 107 and Over)","Percentage","7926","Booking Slots",2018-01-01
+"57","Large Vessels (beam 91' and over)","Percentage","7699","Booking Slots",2018-01-01
+"58","Regular Vessels (beam less than 91')","Percentage","6895","Booking Slots",2018-01-01
+"59","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2018-01-01
+"60","Auctioned booking slots","Percentage","1429","Booking Slots",2018-01-01
+"61","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-01-01
+"62","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2019-01-01
+"63","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2019-01-01
+"64","Regular Vessels (up to 300' in length)","Available","5","Booking Slots",2019-01-01
+"65","Auctioned booking slots","Available","2","Booking Slots",2019-01-01
+"66","Neopanamax Vessels (107’ beam and Over)","Used","189","Booking Slots",2019-01-01
+"67","Large Vessels (91’ beam to under 107’ beam)","Used","3411","Booking Slots",2019-01-01
+"68","Regular Vessels (less than 91' beam)","Used","1661","Booking Slots",2019-01-01
+"69","Regular Vessels (up to 300' in length)","Used","5","Booking Slots",2019-01-01
+"70","Auctioned booking slots","Used","0","Booking Slots",2019-01-01
+"71","Neopanamax Vessels (107’ beam and Over)","Percentage","7621","Booking Slots",2019-01-01
+"72","Large Vessels (91’ beam to under 107’ beam)","Percentage","7333","Booking Slots",2019-01-01
+"73","Regular Vessels (less than 91' beam)","Percentage","6694","Booking Slots",2019-01-01
+"74","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2019-01-01
+"75","Auctioned booking slots","Percentage","0","Booking Slots",2019-01-01
+"76","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2017-01-01
+"77","Large Vessels (91' to 107’ beam)","Available","482","Booking Slots",2017-01-01
+"78","Regular Vessels (beam less than 91')","Available","242","Booking Slots",2017-01-01
+"79","Regular Vessels (up to 300' in length)","Available","10","Booking Slots",2017-01-01
+"80","Auctioned booking slots","Available","26","Booking Slots",2017-01-01
+"81","Neopanamax Vessels (beam 107' and over)","Used","145","Booking Slots",2017-01-01
+"82","Large Vessels (91' to 107’ beam)","Used","4511","Booking Slots",2017-01-01
+"83","Regular Vessels (beam less than 91')","Used","2151","Booking Slots",2017-01-01
+"84","Regular Vessels (up to 300' in length)","Used","10","Booking Slots",2017-01-01
+"85","Auctioned booking slots","Used","23","Booking Slots",2017-01-01
+"86","Neopanamax Vessels (beam 107' and over)","Percentage","7796","Booking Slots",2017-01-01
+"87","Large Vessels (91' to 107’ beam)","Percentage","9357","Booking Slots",2017-01-01
+"88","Regular Vessels (beam less than 91')","Percentage","8884","Booking Slots",2017-01-01
+"89","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2017-01-01
+"90","Auctioned booking slots","Percentage","8846","Booking Slots",2017-01-01
+"91","Neopanamax Vessels (107’ beam and Over)","Available","196","Booking Slots",2018-02-01
+"92","Large Vessels (91’ beam to under 107’ beam)","Available","420","Booking Slots",2018-02-01
+"93","Regular Vessels (less than 91' beam)","Available","224","Booking Slots",2018-02-01
+"94","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2018-02-01
+"95","Auctioned booking slots","Available","9","Booking Slots",2018-02-01
+"96","Neopanamax Vessels (107’ beam and Over)","Used","157","Booking Slots",2018-02-01
+"97","Large Vessels (91’ beam to under 107’ beam)","Used","3171","Booking Slots",2018-02-01
+"98","Regular Vessels (less than 91' beam)","Used","1641","Booking Slots",2018-02-01
+"99","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2018-02-01
+"100","Auctioned booking slots","Used","0","Booking Slots",2018-02-01
+"101","Neopanamax Vessels (107’ beam and Over)","Percentage","8010","Booking Slots",2018-02-01
+"102","Large Vessels (91’ beam to under 107’ beam)","Percentage","7548","Booking Slots",2018-02-01
+"103","Regular Vessels (less than 91' beam)","Percentage","7321","Booking Slots",2018-02-01
+"104","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2018-02-01
+"105","Auctioned booking slots","Percentage","00","Booking Slots",2018-02-01
+"106","Neopanamax Vessels (107’ beam and Over)","Available","224","Booking Slots",2019-02-01
+"107","Large Vessels (91’ beam to under 107’ beam)","Available","420","Booking Slots",2019-02-01
+"108","Regular Vessels (less than 91' beam)","Available","224","Booking Slots",2019-02-01
+"109","Regular Vessels (up to 300' in length)","Available","3","Booking Slots",2019-02-01
+"110","Auctioned booking slots","Available","6","Booking Slots",2019-02-01
+"111","Neopanamax Vessels (107’ beam and Over)","Used","155","Booking Slots",2019-02-01
+"112","Large Vessels (91’ beam to under 107’ beam)","Used","3021","Booking Slots",2019-02-01
+"113","Regular Vessels (less than 91' beam)","Used","1461","Booking Slots",2019-02-01
+"114","Regular Vessels (up to 300' in length)","Used","2","Booking Slots",2019-02-01
+"115","Auctioned booking slots","Used","1","Booking Slots",2019-02-01
+"116","Neopanamax Vessels (107’ beam and Over)","Percentage","6920","Booking Slots",2019-02-01
+"117","Large Vessels (91’ beam to under 107’ beam)","Percentage","7191","Booking Slots",2019-02-01
+"118","Regular Vessels (less than 91' beam)","Percentage","6518","Booking Slots",2019-02-01
+"119","Regular Vessels (up to 300' in length)","Percentage","6667","Booking Slots",2019-02-01
+"120","Auctioned booking slots","Percentage","1667","Booking Slots",2019-02-01
+"121","Neopanamax Vessels (beam 107' and over)","Available","168","Booking Slots",2017-02-01
+"122","Large Vessels (91' to 107’ beam)","Available","420","Booking Slots",2017-02-01
+"123","Regular Vessels (beam less than 91')","Available","224","Booking Slots",2017-02-01
+"124","Regular Vessels (up to 300' in length)","Available","3","Booking Slots",2017-02-01
+"125","Auctioned booking slots","Available","27","Booking Slots",2017-02-01
+"126","Neopanamax Vessels (beam 107' and over)","Used","148","Booking Slots",2017-02-01
+"127","Large Vessels (91' to 107’ beam)","Used","4041","Booking Slots",2017-02-01
+"128","Regular Vessels (beam less than 91')","Used","1841","Booking Slots",2017-02-01
+"129","Regular Vessels (up to 300' in length)","Used","3","Booking Slots",2017-02-01
+"130","Auctioned booking slots","Used","14","Booking Slots",2017-02-01
+"131","Neopanamax Vessels (beam 107' and over)","Percentage","8810","Booking Slots",2017-02-01
+"132","Large Vessels (91' to 107’ beam)","Percentage","9619","Booking Slots",2017-02-01
+"133","Regular Vessels (beam less than 91')","Percentage","8214","Booking Slots",2017-02-01
+"134","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2017-02-01
+"135","Auctioned booking slots","Percentage","5185","Booking Slots",2017-02-01
+"136","Neopanamax Vessels (107’ beam and Over)","Available","217","Booking Slots",2018-03-01
+"137","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2018-03-01
+"138","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2018-03-01
+"139","Regular Vessels (up to 300' in length)","Available","8","Booking Slots",2018-03-01
+"140","Auctioned booking slots","Available","11","Booking Slots",2018-03-01
+"141","Neopanamax Vessels (107’ beam and Over)","Used","160","Booking Slots",2018-03-01
+"142","Large Vessels (91’ beam to under 107’ beam)","Used","3751","Booking Slots",2018-03-01
+"143","Regular Vessels (less than 91' beam)","Used","1971","Booking Slots",2018-03-01
+"144","Regular Vessels (up to 300' in length)","Used","7","Booking Slots",2018-03-01
+"145","Auctioned booking slots","Used","4","Booking Slots",2018-03-01
+"146","Neopanamax Vessels (107’ beam and Over)","Percentage","7373","Booking Slots",2018-03-01
+"147","Large Vessels (91’ beam to under 107’ beam)","Percentage","8065","Booking Slots",2018-03-01
+"148","Regular Vessels (less than 91' beam)","Percentage","7944","Booking Slots",2018-03-01
+"149","Regular Vessels (up to 300' in length)","Percentage","8750","Booking Slots",2018-03-01
+"150","Auctioned booking slots","Percentage","3636","Booking Slots",2018-03-01
+"151","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-03-01
+"152","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2019-03-01
+"153","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2019-03-01
+"154","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2019-03-01
+"155","Auctioned booking slots","Available","8","Booking Slots",2019-03-01
+"156","Neopanamax Vessels (107’ beam and Over)","Used","181","Booking Slots",2019-03-01
+"157","Large Vessels (91’ beam to under 107’ beam)","Used","3071","Booking Slots",2019-03-01
+"158","Regular Vessels (less than 91' beam)","Used","1891","Booking Slots",2019-03-01
+"159","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2019-03-01
+"160","Auctioned booking slots","Used","0","Booking Slots",2019-03-01
+"161","Neopanamax Vessels (107’ beam and Over)","Percentage","7298","Booking Slots",2019-03-01
+"162","Large Vessels (91’ beam to under 107’ beam)","Percentage","6602","Booking Slots",2019-03-01
+"163","Regular Vessels (less than 91' beam)","Percentage","7621","Booking Slots",2019-03-01
+"164","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2019-03-01
+"165","Auctioned booking slots","Percentage","0000","Booking Slots",2019-03-01
+"166","Neopanamax Vessels (107’ beam and Over)","Available","210","Booking Slots",2018-04-01
+"167","Large Vessels (91’ beam to under 107’ beam)","Available","448","Booking Slots",2018-04-01
+"168","Regular Vessels (less than 91' beam)","Available","238","Booking Slots",2018-04-01
+"169","Regular Vessels (up to 300' in length)","Available","1","Booking Slots",2018-04-01
+"170","Auctioned booking slots","Available","15","Booking Slots",2018-04-01
+"171","Neopanamax Vessels (107’ beam and Over)","Used","132","Booking Slots",2018-04-01
+"172","Large Vessels (91’ beam to under 107’ beam)","Used","3801","Booking Slots",2018-04-01
+"173","Regular Vessels (less than 91' beam)","Used","1551","Booking Slots",2018-04-01
+"174","Regular Vessels (up to 300' in length)","Used","1","Booking Slots",2018-04-01
+"175","Auctioned booking slots","Used","6","Booking Slots",2018-04-01
+"176","Neopanamax Vessels (107’ beam and Over)","Percentage","6286","Booking Slots",2018-04-01
+"177","Large Vessels (91’ beam to under 107’ beam)","Percentage","8065","Booking Slots",2018-04-01
+"178","Regular Vessels (less than 91' beam)","Percentage","7944","Booking Slots",2018-04-01
+"179","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2018-04-01
+"180","Auctioned booking slots","Percentage","4000","Booking Slots",2018-04-01
+"181","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2017-03-01
+"182","Large Vessels (91' to 107’ beam)","Available","463","Booking Slots",2017-03-01
+"183","Regular Vessels (beam less than 91')","Available","246","Booking Slots",2017-03-01
+"184","Regular Vessels (up to 300' in length)","Available","8","Booking Slots",2017-03-01
+"185","Auctioned booking slots","Available","18","Booking Slots",2017-03-01
+"186","Neopanamax Vessels (beam 107' and over)","Used","145","Booking Slots",2017-03-01
+"187","Large Vessels (91' to 107’ beam)","Used","3981","Booking Slots",2017-03-01
+"188","Regular Vessels (beam less than 91')","Used","2031","Booking Slots",2017-03-01
+"189","Regular Vessels (up to 300' in length)","Used","8","Booking Slots",2017-03-01
+"190","Auctioned booking slots","Used","6","Booking Slots",2017-03-01
+"191","Neopanamax Vessels (beam 107' and over)","Percentage","7796","Booking Slots",2017-03-01
+"192","Large Vessels (91' to 107’ beam)","Percentage","8596","Booking Slots",2017-03-01
+"193","Regular Vessels (beam less than 91')","Percentage","8552","Booking Slots",2017-03-01
+"194","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2017-03-01
+"195","Auctioned booking slots","Percentage","3333","Booking Slots",2017-03-01
+"196","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2019-04-01
+"197","Large Vessels (91’ beam to under 107’ beam)","Available","450","Booking Slots",2019-04-01
+"198","Regular Vessels (less than 91' beam)","Available","240","Booking Slots",2019-04-01
+"199","Regular Vessels (up to 300' in length)","Available","1","Booking Slots",2019-04-01
+"200","Auctioned booking slots","Available","1","Booking Slots",2019-04-01
+"201","Neopanamax Vessels (107’ beam and Over)","Used","172","Booking Slots",2019-04-01
+"202","Large Vessels (91’ beam to under 107’ beam)","Used","2671","Booking Slots",2019-04-01
+"203","Regular Vessels (less than 91' beam)","Used","1391","Booking Slots",2019-04-01
+"204","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2019-04-01
+"205","Auctioned booking slots","Used","0","Booking Slots",2019-04-01
+"206","Neopanamax Vessels (107’ beam and Over)","Percentage","7167","Booking Slots",2019-04-01
+"207","Large Vessels (91’ beam to under 107’ beam)","Percentage","5933","Booking Slots",2019-04-01
+"208","Regular Vessels (less than 91' beam)","Percentage","5792","Booking Slots",2019-04-01
+"209","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2019-04-01
+"210","Auctioned booking slots","Percentage","000","Booking Slots",2019-04-01
+"211","Neopanamax Vessels (beam 107' and over)","Available","180","Booking Slots",2017-04-01
+"212","Large Vessels (91' to 107’ beam)","Available","448","Booking Slots",2017-04-01
+"213","Regular Vessels (beam less than 91')","Available","238","Booking Slots",2017-04-01
+"214","Regular Vessels (up to 300' in length)","Available","2","Booking Slots",2017-04-01
+"215","Auctioned booking slots","Available","8","Booking Slots",2017-04-01
+"216","Neopanamax Vessels (beam 107' and over)","Used","156","Booking Slots",2017-04-01
+"217","Large Vessels (91' to 107’ beam)","Used","3611","Booking Slots",2017-04-01
+"218","Regular Vessels (beam less than 91')","Used","1621","Booking Slots",2017-04-01
+"219","Regular Vessels (up to 300' in length)","Used","2","Booking Slots",2017-04-01
+"220","Auctioned booking slots","Used","3","Booking Slots",2017-04-01
+"221","Neopanamax Vessels (beam 107' and over)","Percentage","8667","Booking Slots",2017-04-01
+"222","Large Vessels (91' to 107’ beam)","Percentage","8058","Booking Slots",2017-04-01
+"223","Regular Vessels (beam less than 91')","Percentage","6807","Booking Slots",2017-04-01
+"224","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2017-04-01
+"225","Auctioned booking slots","Percentage","3750","Booking Slots",2017-04-01
+"226","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2017-05-01
+"227","Large Vessels (91' to 107’ beam)","Available","465","Booking Slots",2017-05-01
+"228","Regular Vessels (beam less than 91')","Available","248","Booking Slots",2017-05-01
+"229","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2017-05-01
+"230","Auctioned booking slots","Available","5","Booking Slots",2017-05-01
+"231","Neopanamax Vessels (beam 107' and over)","Used","155","Booking Slots",2017-05-01
+"232","Large Vessels (91' to 107’ beam)","Used","3261","Booking Slots",2017-05-01
+"233","Regular Vessels (beam less than 91')","Used","1501","Booking Slots",2017-05-01
+"234","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2017-05-01
+"235","Auctioned booking slots","Used","0","Booking Slots",2017-05-01
+"236","Neopanamax Vessels (beam 107' and over)","Percentage","8333","Booking Slots",2017-05-01
+"237","Large Vessels (91' to 107’ beam)","Percentage","7011","Booking Slots",2017-05-01
+"238","Regular Vessels (beam less than 91')","Percentage","6048","Booking Slots",2017-05-01
+"239","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2017-05-01
+"240","Auctioned booking slots","Percentage","000","Booking Slots",2017-05-01
+"241","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-05-01
+"242","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2019-05-01
+"243","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2019-05-01
+"244","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2019-05-01
+"245","Auctioned booking slots","Available","1","Booking Slots",2019-05-01
+"246","Neopanamax Vessels (107’ beam and Over)","Used","182","Booking Slots",2019-05-01
+"247","Large Vessels (91’ beam to under 107’ beam)","Used","3051","Booking Slots",2019-05-01
+"248","Regular Vessels (less than 91' beam)","Used","1231","Booking Slots",2019-05-01
+"249","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2019-05-01
+"250","Auctioned booking slots","Used","0","Booking Slots",2019-05-01
+"251","Neopanamax Vessels (107’ beam and Over)","Percentage","7339","Booking Slots",2019-05-01
+"252","Large Vessels (91’ beam to under 107’ beam)","Percentage","6559","Booking Slots",2019-05-01
+"253","Regular Vessels (less than 91' beam)","Percentage","4960","Booking Slots",2019-05-01
+"254","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2019-05-01
+"255","Auctioned booking slots","Percentage","000","Booking Slots",2019-05-01
+"256","Neopanamax Vessels (107’ beam and Over)","Available","242","Booking Slots",2018-05-01
+"257","Large Vessels (91’ beam to under 107’ beam)","Available","448","Booking Slots",2018-05-01
+"258","Regular Vessels (less than 91' beam)","Available","240","Booking Slots",2018-05-01
+"259","Regular Vessels (up to 300' in length)","Available","2","Booking Slots",2018-05-01
+"260","Auctioned booking slots","Available","16","Booking Slots",2018-05-01
+"261","Neopanamax Vessels (107’ beam and Over)","Used","153","Booking Slots",2018-05-01
+"262","Large Vessels (91’ beam to under 107’ beam)","Used","3781","Booking Slots",2018-05-01
+"263","Regular Vessels (less than 91' beam)","Used","1621","Booking Slots",2018-05-01
+"264","Regular Vessels (up to 300' in length)","Used","2","Booking Slots",2018-05-01
+"265","Auctioned booking slots","Used","10","Booking Slots",2018-05-01
+"266","Neopanamax Vessels (107’ beam and Over)","Percentage","6322","Booking Slots",2018-05-01
+"267","Large Vessels (91’ beam to under 107’ beam)","Percentage","8438","Booking Slots",2018-05-01
+"268","Regular Vessels (less than 91' beam)","Percentage","6750","Booking Slots",2018-05-01
+"269","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2018-05-01
+"270","Auctioned booking slots","Percentage","6250","Booking Slots",2018-05-01
+"271","Neopanamax Vessels (beam 107' and over)","Available","180","Booking Slots",2017-06-01
+"272","Large Vessels (91' to 107’ beam)","Available","428","Booking Slots",2017-06-01
+"273","Regular Vessels (beam less than 91')","Available","222","Booking Slots",2017-06-01
+"274","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2017-06-01
+"275","Auctioned booking slots","Available","5","Booking Slots",2017-06-01
+"276","Neopanamax Vessels (beam 107' and over)","Used","141","Booking Slots",2017-06-01
+"277","Large Vessels (91' to 107’ beam)","Used","3081","Booking Slots",2017-06-01
+"278","Regular Vessels (beam less than 91')","Used","1111","Booking Slots",2017-06-01
+"279","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2017-06-01
+"280","Auctioned booking slots","Used","1","Booking Slots",2017-06-01
+"281","Neopanamax Vessels (beam 107' and over)","Percentage","7833","Booking Slots",2017-06-01
+"282","Large Vessels (91' to 107’ beam)","Percentage","7196","Booking Slots",2017-06-01
+"283","Regular Vessels (beam less than 91')","Percentage","5000","Booking Slots",2017-06-01
+"284","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2017-06-01
+"285","Auctioned booking slots","Percentage","2000","Booking Slots",2017-06-01
+"286","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2017-07-01
+"287","Large Vessels (91' to 107’ beam)","Available","465","Booking Slots",2017-07-01
+"288","Regular Vessels (beam less than 91')","Available","248","Booking Slots",2017-07-01
+"289","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2017-07-01
+"290","Auctioned booking slots","Available","10","Booking Slots",2017-07-01
+"291","Neopanamax Vessels (beam 107' and over)","Used","145","Booking Slots",2017-07-01
+"292","Large Vessels (91' to 107’ beam)","Used","3931","Booking Slots",2017-07-01
+"293","Regular Vessels (beam less than 91')","Used","1501","Booking Slots",2017-07-01
+"294","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2017-07-01
+"295","Auctioned booking slots","Used","3","Booking Slots",2017-07-01
+"296","Neopanamax Vessels (beam 107' and over)","Percentage","7796","Booking Slots",2017-07-01
+"297","Large Vessels (91' to 107’ beam)","Percentage","8452","Booking Slots",2017-07-01
+"298","Regular Vessels (beam less than 91')","Percentage","6048","Booking Slots",2017-07-01
+"299","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2017-07-01
+"300","Auctioned booking slots","Percentage","3000","Booking Slots",2017-07-01
+"301","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2018-06-01
+"302","Large Vessels (91’ beam to under 107’ beam)","Available","423","Booking Slots",2018-06-01
+"303","Regular Vessels (less than 91' beam)","Available","216","Booking Slots",2018-06-01
+"304","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2018-06-01
+"305","Auctioned booking slots","Available","8","Booking Slots",2018-06-01
+"306","Neopanamax Vessels (107’ beam and Over)","Used","153","Booking Slots",2018-06-01
+"307","Large Vessels (91’ beam to under 107’ beam)","Used","3081","Booking Slots",2018-06-01
+"308","Regular Vessels (less than 91' beam)","Used","1271","Booking Slots",2018-06-01
+"309","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2018-06-01
+"310","Auctioned booking slots","Used","1","Booking Slots",2018-06-01
+"311","Neopanamax Vessels (107’ beam and Over)","Percentage","6375","Booking Slots",2018-06-01
+"312","Large Vessels (91’ beam to under 107’ beam)","Percentage","7281","Booking Slots",2018-06-01
+"313","Regular Vessels (less than 91' beam)","Percentage","5880","Booking Slots",2018-06-01
+"314","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2018-06-01
+"315","Auctioned booking slots","Percentage","1250","Booking Slots",2018-06-01
+"316","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2019-06-01
+"317","Large Vessels (91’ beam to under 107’ beam)","Available","450","Booking Slots",2019-06-01
+"318","Regular Vessels (less than 91' beam)","Available","240","Booking Slots",2019-06-01
+"319","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2019-06-01
+"320","Auctioned booking slots","Available","1","Booking Slots",2019-06-01
+"321","Neopanamax Vessels (107’ beam and Over)","Used","187","Booking Slots",2019-06-01
+"322","Large Vessels (91’ beam to under 107’ beam)","Used","2561","Booking Slots",2019-06-01
+"323","Regular Vessels (less than 91' beam)","Used","991","Booking Slots",2019-06-01
+"324","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2019-06-01
+"325","Auctioned booking slots","Used","0","Booking Slots",2019-06-01
+"326","Neopanamax Vessels (107’ beam and Over)","Percentage","7792","Booking Slots",2019-06-01
+"327","Large Vessels (91’ beam to under 107’ beam)","Percentage","5689","Booking Slots",2019-06-01
+"328","Regular Vessels (less than 91' beam)","Percentage","4125","Booking Slots",2019-06-01
+"329","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2019-06-01
+"330","Auctioned booking slots","Percentage","0","Booking Slots",2019-06-01
+"331","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2018-07-01
+"332","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2018-07-01
+"333","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2018-07-01
+"334","Regular Vessels (up to 300' in length)","Available","1","Booking Slots",2018-07-01
+"335","Auctioned booking slots","Available","1","Booking Slots",2018-07-01
+"336","Neopanamax Vessels (107’ beam and Over)","Used","177","Booking Slots",2018-07-01
+"337","Large Vessels (91’ beam to under 107’ beam)","Used","2941","Booking Slots",2018-07-01
+"338","Regular Vessels (less than 91' beam)","Used","961","Booking Slots",2018-07-01
+"339","Regular Vessels (up to 300' in length)","Used","1","Booking Slots",2018-07-01
+"340","Auctioned booking slots","Used","0","Booking Slots",2018-07-01
+"341","Neopanamax Vessels (107’ beam and Over)","Percentage","7137","Booking Slots",2018-07-01
+"342","Large Vessels (91’ beam to under 107’ beam)","Percentage","6323","Booking Slots",2018-07-01
+"343","Regular Vessels (less than 91' beam)","Percentage","3871","Booking Slots",2018-07-01
+"344","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2018-07-01
+"345","Auctioned booking slots","Percentage","000","Booking Slots",2018-07-01
+"346","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-07-01
+"347","Large Vessels (91’ beam to under 107’ beam)","Available","455","Booking Slots",2019-07-01
+"348","Regular Vessels (less than 91' beam)","Available","244","Booking Slots",2019-07-01
+"349","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2019-07-01
+"350","Auctioned booking slots","Available","2","Booking Slots",2019-07-01
+"351","Neopanamax Vessels (107’ beam and Over)","Used","208","Booking Slots",2019-07-01
+"352","Large Vessels (91’ beam to under 107’ beam)","Used","2591","Booking Slots",2019-07-01
+"353","Regular Vessels (less than 91' beam)","Used","1121","Booking Slots",2019-07-01
+"354","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2019-07-01
+"355","Auctioned booking slots","Used","2","Booking Slots",2019-07-01
+"356","Neopanamax Vessels (107’ beam and Over)","Percentage","8387","Booking Slots",2019-07-01
+"357","Large Vessels (91’ beam to under 107’ beam)","Percentage","5692","Booking Slots",2019-07-01
+"358","Regular Vessels (less than 91' beam)","Percentage","4590","Booking Slots",2019-07-01
+"359","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2019-07-01
+"360","Auctioned booking slots","Percentage","10000","Booking Slots",2019-07-01
+"361","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2017-08-01
+"362","Large Vessels (91' to 107’ beam)","Available","410","Booking Slots",2017-08-01
+"363","Regular Vessels (beam less than 91')","Available","226","Booking Slots",2017-08-01
+"364","Regular Vessels (up to 300' in length)","Available","1","Booking Slots",2017-08-01
+"365","Auctioned booking slots","Available","17","Booking Slots",2017-08-01
+"366","Neopanamax Vessels (beam 107' and over)","Used","133","Booking Slots",2017-08-01
+"367","Large Vessels (91' to 107’ beam)","Used","3481","Booking Slots",2017-08-01
+"368","Regular Vessels (beam less than 91')","Used","1321","Booking Slots",2017-08-01
+"369","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2017-08-01
+"370","Auctioned booking slots","Used","10","Booking Slots",2017-08-01
+"371","Neopanamax Vessels (beam 107' and over)","Percentage","7151","Booking Slots",2017-08-01
+"372","Large Vessels (91' to 107’ beam)","Percentage","8488","Booking Slots",2017-08-01
+"373","Regular Vessels (beam less than 91')","Percentage","5841","Booking Slots",2017-08-01
+"374","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2017-08-01
+"375","Auctioned booking slots","Percentage","5882","Booking Slots",2017-08-01
+"376","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2018-08-01
+"377","Large Vessels (91’ beam to under 107’ beam)","Available","415","Booking Slots",2018-08-01
+"378","Regular Vessels (less than 91' beam)","Available","228","Booking Slots",2018-08-01
+"379","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2018-08-01
+"380","Auctioned booking slots","Available","13","Booking Slots",2018-08-01
+"381","Neopanamax Vessels (107’ beam and Over)","Used","177","Booking Slots",2018-08-01
+"382","Large Vessels (91’ beam to under 107’ beam)","Used","2951","Booking Slots",2018-08-01
+"383","Regular Vessels (less than 91' beam)","Used","1261","Booking Slots",2018-08-01
+"384","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2018-08-01
+"385","Auctioned booking slots","Used","5","Booking Slots",2018-08-01
+"386","Neopanamax Vessels (107’ beam and Over)","Percentage","7137","Booking Slots",2018-08-01
+"387","Large Vessels (91’ beam to under 107’ beam)","Percentage","7108","Booking Slots",2018-08-01
+"388","Regular Vessels (less than 91' beam)","Percentage","5526","Booking Slots",2018-08-01
+"389","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2018-08-01
+"390","Auctioned booking slots","Percentage","3846","Booking Slots",2018-08-01
+"391","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-08-01
+"392","Large Vessels (91’ beam to under 107’ beam)","Available","423","Booking Slots",2019-08-01
+"393","Regular Vessels (less than 91' beam)","Available","224","Booking Slots",2019-08-01
+"394","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2019-08-01
+"395","Auctioned booking slots","Available","21","Booking Slots",2019-08-01
+"396","Neopanamax Vessels (107’ beam and Over)","Used","202","Booking Slots",2019-08-01
+"397","Large Vessels (91’ beam to under 107’ beam)","Used","4021","Booking Slots",2019-08-01
+"398","Regular Vessels (less than 91' beam)","Used","1541","Booking Slots",2019-08-01
+"399","Regular Vessels (up to 300' in length)","Used","3","Booking Slots",2019-08-01
+"400","Auctioned booking slots","Used","13","Booking Slots",2019-08-01
+"401","Neopanamax Vessels (107’ beam and Over)","Percentage","8145","Booking Slots",2019-08-01
+"402","Large Vessels (91’ beam to under 107’ beam)","Percentage","9504","Booking Slots",2019-08-01
+"403","Regular Vessels (less than 91' beam)","Percentage","6875","Booking Slots",2019-08-01
+"404","Regular Vessels (up to 300' in length)","Percentage","7500","Booking Slots",2019-08-01
+"405","Auctioned booking slots","Percentage","6190","Booking Slots",2019-08-01
+"406","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2018-09-01
+"407","Large Vessels (91’ beam to under 107’ beam)","Available","435","Booking Slots",2018-09-01
+"408","Regular Vessels (less than 91' beam)","Available","234","Booking Slots",2018-09-01
+"409","Regular Vessels (up to 300' in length)","Available","1","Booking Slots",2018-09-01
+"410","Auctioned booking slots","Available","3","Booking Slots",2018-09-01
+"411","Neopanamax Vessels (107’ beam and Over)","Used","171","Booking Slots",2018-09-01
+"412","Large Vessels (91’ beam to under 107’ beam)","Used","2931","Booking Slots",2018-09-01
+"413","Regular Vessels (less than 91' beam)","Used","1291","Booking Slots",2018-09-01
+"414","Regular Vessels (up to 300' in length)","Used","1","Booking Slots",2018-09-01
+"415","Auctioned booking slots","Used","0","Booking Slots",2018-09-01
+"416","Neopanamax Vessels (107’ beam and Over)","Percentage","7125","Booking Slots",2018-09-01
+"417","Large Vessels (91’ beam to under 107’ beam)","Percentage","6736","Booking Slots",2018-09-01
+"418","Regular Vessels (less than 91' beam)","Percentage","5513","Booking Slots",2018-09-01
+"419","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2018-09-01
+"420","Auctioned booking slots","Percentage","0","Booking Slots",2018-09-01
+"421","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2018-10-01
+"422","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2018-10-01
+"423","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2018-10-01
+"424","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2018-10-01
+"425","Auctioned booking slots","Available","4","Booking Slots",2018-10-01
+"426","Neopanamax Vessels (107’ beam and Over)","Used","166","Booking Slots",2018-10-01
+"427","Large Vessels (91’ beam to under 107’ beam)","Used","3341","Booking Slots",2018-10-01
+"428","Regular Vessels (less than 91' beam)","Used","1321","Booking Slots",2018-10-01
+"429","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2018-10-01
+"430","Auctioned booking slots","Used","0","Booking Slots",2018-10-01
+"431","Neopanamax Vessels (107’ beam and Over)","Percentage","6694","Booking Slots",2018-10-01
+"432","Large Vessels (91’ beam to under 107’ beam)","Percentage","7183","Booking Slots",2018-10-01
+"433","Regular Vessels (less than 91' beam)","Percentage","5323","Booking Slots",2018-10-01
+"434","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2018-10-01
+"435","Auctioned booking slots","Percentage","0","Booking Slots",2018-10-01
+"436","Neopanamax Vessels (beam 107' and over)","Available","180","Booking Slots",2017-09-01
+"437","Large Vessels (91' to 107’ beam)","Available","448","Booking Slots",2017-09-01
+"438","Regular Vessels (beam less than 91')","Available","238","Booking Slots",2017-09-01
+"439","Regular Vessels (up to 300' in length)","Available","1","Booking Slots",2017-09-01
+"440","Auctioned booking slots","Available","2","Booking Slots",2017-09-01
+"441","Neopanamax Vessels (beam 107' and over)","Used","138","Booking Slots",2017-09-01
+"442","Large Vessels (91' to 107’ beam)","Used","2971","Booking Slots",2017-09-01
+"443","Regular Vessels (beam less than 91')","Used","1441","Booking Slots",2017-09-01
+"444","Regular Vessels (up to 300' in length)","Used","1","Booking Slots",2017-09-01
+"445","Auctioned booking slots","Used","0","Booking Slots",2017-09-01
+"446","Neopanamax Vessels (beam 107' and over)","Percentage","7667","Booking Slots",2017-09-01
+"447","Large Vessels (91' to 107’ beam)","Percentage","6629","Booking Slots",2017-09-01
+"448","Regular Vessels (beam less than 91')","Percentage","6050","Booking Slots",2017-09-01
+"449","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2017-09-01
+"450","Auctioned booking slots","Percentage","000","Booking Slots",2017-09-01
+"451","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2018-11-01
+"452","Large Vessels (91’ beam to under 107’ beam)","Available","448","Booking Slots",2018-11-01
+"453","Regular Vessels (less than 91' beam)","Available","238","Booking Slots",2018-11-01
+"454","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2018-11-01
+"455","Auctioned booking slots","Available","3","Booking Slots",2018-11-01
+"456","Neopanamax Vessels (107’ beam and Over)","Used","176","Booking Slots",2018-11-01
+"457","Large Vessels (91’ beam to under 107’ beam)","Used","3031","Booking Slots",2018-11-01
+"458","Regular Vessels (less than 91' beam)","Used","1241","Booking Slots",2018-11-01
+"459","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2018-11-01
+"460","Auctioned booking slots","Used","0","Booking Slots",2018-11-01
+"461","Neopanamax Vessels (107’ beam and Over)","Percentage","7333","Booking Slots",2018-11-01
+"462","Large Vessels (91’ beam to under 107’ beam)","Percentage","6763","Booking Slots",2018-11-01
+"463","Regular Vessels (less than 91' beam)","Percentage","5210","Booking Slots",2018-11-01
+"464","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2018-11-01
+"465","Auctioned booking slots","Percentage","0","Booking Slots",2018-11-01
+"466","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2019-09-01
+"467","Large Vessels (91’ beam to under 107’ beam)","Available","405","Booking Slots",2019-09-01
+"468","Regular Vessels (less than 91' beam)","Available","216","Booking Slots",2019-09-01
+"469","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2019-09-01
+"470","Auctioned booking slots","Available","10","Booking Slots",2019-09-01
+"471","Neopanamax Vessels (107’ beam and Over)","Used","195","Booking Slots",2019-09-01
+"472","Large Vessels (91’ beam to under 107’ beam)","Used","3171","Booking Slots",2019-09-01
+"473","Regular Vessels (less than 91' beam)","Used","1351","Booking Slots",2019-09-01
+"474","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2019-09-01
+"475","Auctioned booking slots","Used","8","Booking Slots",2019-09-01
+"476","Neopanamax Vessels (107’ beam and Over)","Percentage","8125","Booking Slots",2019-09-01
+"477","Large Vessels (91’ beam to under 107’ beam)","Percentage","7827","Booking Slots",2019-09-01
+"478","Regular Vessels (less than 91' beam)","Percentage","6250","Booking Slots",2019-09-01
+"479","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2019-09-01
+"480","Auctioned booking slots","Percentage","8000","Booking Slots",2019-09-01
+"481","Neopanamax Vessels (beam 107' and over)","Available","186","Booking Slots",2017-10-01
+"482","Large Vessels (91' to 107’ beam)","Available","465","Booking Slots",2017-10-01
+"483","Regular Vessels (beam less than 91')","Available","248","Booking Slots",2017-10-01
+"484","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2017-10-01
+"485","Auctioned booking slots","Available","10","Booking Slots",2017-10-01
+"486","Neopanamax Vessels (beam 107' and over)","Used","160","Booking Slots",2017-10-01
+"487","Large Vessels (91' to 107’ beam)","Used","4031","Booking Slots",2017-10-01
+"488","Regular Vessels (beam less than 91')","Used","1401","Booking Slots",2017-10-01
+"489","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2017-10-01
+"490","Auctioned booking slots","Used","3","Booking Slots",2017-10-01
+"491","Neopanamax Vessels (beam 107' and over)","Percentage","8602","Booking Slots",2017-10-01
+"492","Large Vessels (91' to 107’ beam)","Percentage","8667","Booking Slots",2017-10-01
+"493","Regular Vessels (beam less than 91')","Percentage","5645","Booking Slots",2017-10-01
+"494","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2017-10-01
+"495","Auctioned booking slots","Percentage","3000","Booking Slots",2017-10-01
+"496","Neopanamax Vessels (beam 107' and over)","Available","180","Booking Slots",2017-11-01
+"497","Large Vessels (91' to 107’ beam)","Available","450","Booking Slots",2017-11-01
+"498","Regular Vessels (beam less than 91')","Available","240","Booking Slots",2017-11-01
+"499","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2017-11-01
+"500","Auctioned booking slots","Available","5","Booking Slots",2017-11-01
+"501","Neopanamax Vessels (beam 107' and over)","Used","159","Booking Slots",2017-11-01
+"502","Large Vessels (91' to 107’ beam)","Used","3611","Booking Slots",2017-11-01
+"503","Regular Vessels (beam less than 91')","Used","1491","Booking Slots",2017-11-01
+"504","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2017-11-01
+"505","Auctioned booking slots","Used","3","Booking Slots",2017-11-01
+"506","Neopanamax Vessels (beam 107' and over)","Percentage","8833","Booking Slots",2017-11-01
+"507","Large Vessels (91' to 107’ beam)","Percentage","8022","Booking Slots",2017-11-01
+"508","Regular Vessels (beam less than 91')","Percentage","6208","Booking Slots",2017-11-01
+"509","Regular Vessels (up to 300' in length)","Percentage","000","Booking Slots",2017-11-01
+"510","Auctioned booking slots","Percentage","6000","Booking Slots",2017-11-01
+"511","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-10-01
+"512","Large Vessels (91’ beam to under 107’ beam)","Available","460","Booking Slots",2019-10-01
+"513","Regular Vessels (less than 91' beam)","Available","246","Booking Slots",2019-10-01
+"514","Regular Vessels (up to 300' in length)","Available","2","Booking Slots",2019-10-01
+"515","Auctioned booking slots","Available","22","Booking Slots",2019-10-01
+"516","Neopanamax Vessels (107’ beam and Over)","Used","225","Booking Slots",2019-10-01
+"517","Large Vessels (91’ beam to under 107’ beam)","Used","4321","Booking Slots",2019-10-01
+"518","Regular Vessels (less than 91' beam)","Used","1551","Booking Slots",2019-10-01
+"519","Regular Vessels (up to 300' in length)","Used","2","Booking Slots",2019-10-01
+"520","Auctioned booking slots","Used","9","Booking Slots",2019-10-01
+"521","Neopanamax Vessels (107’ beam and Over)","Percentage","9073","Booking Slots",2019-10-01
+"522","Large Vessels (91’ beam to under 107’ beam)","Percentage","9391","Booking Slots",2019-10-01
+"523","Regular Vessels (less than 91' beam)","Percentage","6301","Booking Slots",2019-10-01
+"524","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2019-10-01
+"525","Auctioned booking slots","Percentage","4091","Booking Slots",2019-10-01
+"526","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2019-11-01
+"527","Large Vessels (91’ beam to under 107’ beam)","Available","450","Booking Slots",2019-11-01
+"528","Regular Vessels (less than 91' beam)","Available","240","Booking Slots",2019-11-01
+"529","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2019-11-01
+"530","Auctioned booking slots","Available","25","Booking Slots",2019-11-01
+"531","Neopanamax Vessels (107’ beam and Over)","Used","225","Booking Slots",2019-11-01
+"532","Large Vessels (91’ beam to under 107’ beam)","Used","4341","Booking Slots",2019-11-01
+"533","Regular Vessels (less than 91' beam)","Used","1561","Booking Slots",2019-11-01
+"534","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2019-11-01
+"535","Auctioned booking slots","Used","15","Booking Slots",2019-11-01
+"536","Neopanamax Vessels (107’ beam and Over)","Percentage","9375","Booking Slots",2019-11-01
+"537","Large Vessels (91’ beam to under 107’ beam)","Percentage","9644","Booking Slots",2019-11-01
+"538","Regular Vessels (less than 91' beam)","Percentage","6500","Booking Slots",2019-11-01
+"539","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2019-11-01
+"540","Auctioned booking slots","Percentage","2500","Booking Slots",2019-11-01
+"541","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2019-12-01
+"542","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2019-12-01
+"543","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2019-12-01
+"544","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2019-12-01
+"545","Auctioned booking slots","Available","16","Booking Slots",2019-12-01
+"546","Neopanamax Vessels (107’ beam and Over)","Used","220","Booking Slots",2019-12-01
+"547","Large Vessels (91’ beam to under 107’ beam)","Used","4131","Booking Slots",2019-12-01
+"548","Regular Vessels (less than 91' beam)","Used","1801","Booking Slots",2019-12-01
+"549","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2019-12-01
+"550","Auctioned booking slots","Used","5","Booking Slots",2019-12-01
+"551","Neopanamax Vessels (107’ beam and Over)","Percentage","8870","Booking Slots",2019-12-01
+"552","Large Vessels (91’ beam to under 107’ beam)","Percentage","8881","Booking Slots",2019-12-01
+"553","Regular Vessels (less than 91' beam)","Percentage","7258","Booking Slots",2019-12-01
+"554","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2019-12-01
+"555","Auctioned booking slots","Percentage","3125","Booking Slots",2019-12-01
+"556","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2020-12-01
+"557","Large Vessels (91’ beam to under 107’ beam)","Available","400","Booking Slots",2020-12-01
+"558","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2020-12-01
+"559","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2020-12-01
+"560","Auctioned booking slots","Available","45","Booking Slots",2020-12-01
+"561","Neopanamax Vessels (107’ beam and Over)","Used","2321","Booking Slots",2020-12-01
+"562","Large Vessels (91’ beam to under 107’ beam)","Used","3841","Booking Slots",2020-12-01
+"563","Regular Vessels (less than 91' beam)","Used","1481","Booking Slots",2020-12-01
+"564","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2020-12-01
+"565","Auctioned booking slots","Used","32","Booking Slots",2020-12-01
+"566","Neopanamax Vessels (107’ beam and Over)","Percentage","9355","Booking Slots",2020-12-01
+"567","Large Vessels (91’ beam to under 107’ beam)","Percentage","9600","Booking Slots",2020-12-01
+"568","Regular Vessels (less than 91' beam)","Percentage","7957","Booking Slots",2020-12-01
+"569","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2020-12-01
+"570","Auctioned booking slots","Percentage","7111","Booking Slots",2020-12-01
+"571","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2020-01-01
+"572","Large Vessels (91’ beam to under 107’ beam)","Available","465","Booking Slots",2020-01-01
+"573","Regular Vessels (less than 91' beam)","Available","248","Booking Slots",2020-01-01
+"574","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2020-01-01
+"575","Auctioned booking slots","Available","21","Booking Slots",2020-01-01
+"576","Neopanamax Vessels (107’ beam and Over)","Used","218","Booking Slots",2020-01-01
+"577","Large Vessels (91’ beam to under 107’ beam)","Used","4241","Booking Slots",2020-01-01
+"578","Regular Vessels (less than 91' beam)","Used","1951","Booking Slots",2020-01-01
+"579","Regular Vessels (up to 300' in length)","Used","3","Booking Slots",2020-01-01
+"580","Auctioned booking slots","Used","7","Booking Slots",2020-01-01
+"581","Neopanamax Vessels (107’ beam and Over)","Percentage","8790","Booking Slots",2020-01-01
+"582","Large Vessels (91’ beam to under 107’ beam)","Percentage","9118","Booking Slots",2020-01-01
+"583","Regular Vessels (less than 91' beam)","Percentage","7863","Booking Slots",2020-01-01
+"584","Regular Vessels (up to 300' in length)","Percentage","7500","Booking Slots",2020-01-01
+"585","Auctioned booking slots","Percentage","3333","Booking Slots",2020-01-01
+"586","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2021-01-01
+"587","Large Vessels (91’ beam to under 107’ beam)","Available","397","Booking Slots",2021-01-01
+"588","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2021-01-01
+"589","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-01-01
+"590","Auctioned booking slots","Available","78","Booking Slots",2021-01-01
+"591","Neopanamax Vessels (107’ beam and Over)","Used","2301","Booking Slots",2021-01-01
+"592","Large Vessels (91’ beam to under 107’ beam)","Used","3631","Booking Slots",2021-01-01
+"593","Regular Vessels (less than 91' beam)","Used","1451","Booking Slots",2021-01-01
+"594","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-01-01
+"595","Auctioned booking slots","Used","57","Booking Slots",2021-01-01
+"596","Neopanamax Vessels (107’ beam and Over)","Percentage","9274","Booking Slots",2021-01-01
+"597","Large Vessels (91’ beam to under 107’ beam)","Percentage","9144","Booking Slots",2021-01-01
+"598","Regular Vessels (less than 91' beam)","Percentage","7796","Booking Slots",2021-01-01
+"599","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-01-01
+"600","Auctioned booking slots","Percentage","7308","Booking Slots",2021-01-01
+"601","Neopanamax Vessels (107’ beam and Over)","Available","232","Booking Slots",2020-02-01
+"602","Large Vessels (91’ beam to under 107’ beam)","Available","405","Booking Slots",2020-02-01
+"603","Regular Vessels (less than 91' beam)","Available","202","Booking Slots",2020-02-01
+"604","Regular Vessels (up to 300' in length)","Available","4","Booking Slots",2020-02-01
+"605","Auctioned booking slots","Available","43","Booking Slots",2020-02-01
+"606","Neopanamax Vessels (107’ beam and Over)","Used","205","Booking Slots",2020-02-01
+"607","Large Vessels (91’ beam to under 107’ beam)","Used","3911","Booking Slots",2020-02-01
+"608","Regular Vessels (less than 91' beam)","Used","1711","Booking Slots",2020-02-01
+"609","Regular Vessels (up to 300' in length)","Used","4","Booking Slots",2020-02-01
+"610","Auctioned booking slots","Used","35","Booking Slots",2020-02-01
+"611","Neopanamax Vessels (107’ beam and Over)","Percentage","8836","Booking Slots",2020-02-01
+"612","Large Vessels (91’ beam to under 107’ beam)","Percentage","9654","Booking Slots",2020-02-01
+"613","Regular Vessels (less than 91' beam)","Percentage","8465","Booking Slots",2020-02-01
+"614","Regular Vessels (up to 300' in length)","Percentage","10000","Booking Slots",2020-02-01
+"615","Auctioned booking slots","Percentage","8140","Booking Slots",2020-02-01
+"616","Neopanamax Vessels (107’ beam and Over)","Available","224","Booking Slots",2021-02-01
+"617","Large Vessels (91’ beam to under 107’ beam)","Available","364","Booking Slots",2021-02-01
+"618","Regular Vessels (less than 91' beam)","Available","168","Booking Slots",2021-02-01
+"619","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-02-01
+"620","Auctioned booking slots","Available","71","Booking Slots",2021-02-01
+"621","Neopanamax Vessels (107’ beam and Over)","Used","1911","Booking Slots",2021-02-01
+"622","Large Vessels (91’ beam to under 107’ beam)","Used","3391","Booking Slots",2021-02-01
+"623","Regular Vessels (less than 91' beam)","Used","1421","Booking Slots",2021-02-01
+"624","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-02-01
+"625","Auctioned booking slots","Used","50","Booking Slots",2021-02-01
+"626","Neopanamax Vessels (107’ beam and Over)","Percentage","8527","Booking Slots",2021-02-01
+"627","Large Vessels (91’ beam to under 107’ beam)","Percentage","9313","Booking Slots",2021-02-01
+"628","Regular Vessels (less than 91' beam)","Percentage","8452","Booking Slots",2021-02-01
+"629","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-02-01
+"630","Auctioned booking slots","Percentage","7042","Booking Slots",2021-02-01
+"631","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2020-05-01
+"632","Large Vessels (91’ beam to under 107’ beam)","Available","403","Booking Slots",2020-05-01
+"633","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2020-05-01
+"634","Regular Vessels (up to 300' in length)","Available","na","Booking Slots",2020-05-01
+"635","Auctioned booking slots","Available","19","Booking Slots",2020-05-01
+"636","Neopanamax Vessels (107’ beam and Over)","Used","205","Booking Slots",2020-05-01
+"637","Large Vessels (91’ beam to under 107’ beam)","Used","2591","Booking Slots",2020-05-01
+"638","Regular Vessels (less than 91' beam)","Used","1281","Booking Slots",2020-05-01
+"639","Regular Vessels (up to 300' in length)","Used","na","Booking Slots",2020-05-01
+"640","Auctioned booking slots","Used","5","Booking Slots",2020-05-01
+"641","Neopanamax Vessels (107’ beam and Over)","Percentage","8266","Booking Slots",2020-05-01
+"642","Large Vessels (91’ beam to under 107’ beam)","Percentage","6427","Booking Slots",2020-05-01
+"643","Regular Vessels (less than 91' beam)","Percentage","6882","Booking Slots",2020-05-01
+"644","Regular Vessels (up to 300' in length)","Percentage","na","Booking Slots",2020-05-01
+"645","Auctioned booking slots","Percentage","2632","Booking Slots",2020-05-01
+"646","Neopanamax Vessels (107’ beam and Over)","Available","246","Booking Slots",2021-03-01
+"647","Large Vessels (91’ beam to under 107’ beam)","Available","403","Booking Slots",2021-03-01
+"648","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2021-03-01
+"649","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-03-01
+"650","Auctioned booking slots","Available","67","Booking Slots",2021-03-01
+"651","Neopanamax Vessels (107’ beam and Over)","Used","2131","Booking Slots",2021-03-01
+"652","Large Vessels (91’ beam to under 107’ beam)","Used","3781","Booking Slots",2021-03-01
+"653","Regular Vessels (less than 91' beam)","Used","1641","Booking Slots",2021-03-01
+"654","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-03-01
+"655","Auctioned booking slots","Used","48","Booking Slots",2021-03-01
+"656","Neopanamax Vessels (107’ beam and Over)","Percentage","8659","Booking Slots",2021-03-01
+"657","Large Vessels (91’ beam to under 107’ beam)","Percentage","9380","Booking Slots",2021-03-01
+"658","Regular Vessels (less than 91' beam)","Percentage","8818","Booking Slots",2021-03-01
+"659","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-03-01
+"660","Auctioned booking slots","Percentage","7165","Booking Slots",2021-03-01
+"661","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2021-04-01
+"662","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2021-04-01
+"663","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2021-04-01
+"664","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-04-01
+"665","Auctioned booking slots","Available","75","Booking Slots",2021-04-01
+"666","Neopanamax Vessels (107’ beam and Over)","Used","2171","Booking Slots",2021-04-01
+"667","Large Vessels (91’ beam to under 107’ beam)","Used","3631","Booking Slots",2021-04-01
+"668","Regular Vessels (less than 91' beam)","Used","1501","Booking Slots",2021-04-01
+"669","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-04-01
+"670","Auctioned booking slots","Used","45","Booking Slots",2021-04-01
+"671","Neopanamax Vessels (107’ beam and Over)","Percentage","9042","Booking Slots",2021-04-01
+"672","Large Vessels (91’ beam to under 107’ beam)","Percentage","9308","Booking Slots",2021-04-01
+"673","Regular Vessels (less than 91' beam)","Percentage","8333","Booking Slots",2021-04-01
+"674","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-04-01
+"675","Auctioned booking slots","Percentage","5921","Booking Slots",2021-04-01
+"676","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2020-06-01
+"677","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2020-06-01
+"678","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2020-06-01
+"679","Regular Vessels (up to 300' in length)","Available","na","Booking Slots",2020-06-01
+"680","Auctioned booking slots","Available","5","Booking Slots",2020-06-01
+"681","Neopanamax Vessels (107’ beam and Over)","Used","1861","Booking Slots",2020-06-01
+"682","Large Vessels (91’ beam to under 107’ beam)","Used","1671","Booking Slots",2020-06-01
+"683","Regular Vessels (less than 91' beam)","Used","1221","Booking Slots",2020-06-01
+"684","Regular Vessels (up to 300' in length)","Used","na","Booking Slots",2020-06-01
+"685","Auctioned booking slots","Used","2","Booking Slots",2020-06-01
+"686","Neopanamax Vessels (107’ beam and Over)","Percentage","7750","Booking Slots",2020-06-01
+"687","Large Vessels (91’ beam to under 107’ beam)","Percentage","4282","Booking Slots",2020-06-01
+"688","Regular Vessels (less than 91' beam)","Percentage","6778","Booking Slots",2020-06-01
+"689","Regular Vessels (up to 300' in length)","Percentage","na","Booking Slots",2020-06-01
+"690","Auctioned booking slots","Percentage","4000","Booking Slots",2020-06-01
+"691","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2021-05-01
+"692","Large Vessels (91’ beam to under 107’ beam)","Available","403","Booking Slots",2021-05-01
+"693","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2021-05-01
+"694","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-05-01
+"695","Auctioned booking slots","Available","91","Booking Slots",2021-05-01
+"696","Neopanamax Vessels (107’ beam and Over)","Used","2181","Booking Slots",2021-05-01
+"697","Large Vessels (91’ beam to under 107’ beam)","Used","3821","Booking Slots",2021-05-01
+"698","Regular Vessels (less than 91' beam)","Used","1431","Booking Slots",2021-05-01
+"699","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-05-01
+"700","Auctioned booking slots","Used","41","Booking Slots",2021-05-01
+"701","Neopanamax Vessels (107’ beam and Over)","Percentage","8790","Booking Slots",2021-05-01
+"702","Large Vessels (91’ beam to under 107’ beam)","Percentage","9479","Booking Slots",2021-05-01
+"703","Regular Vessels (less than 91' beam)","Percentage","7688","Booking Slots",2021-05-01
+"704","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-05-01
+"705","Auctioned booking slots","Percentage","4505","Booking Slots",2021-05-01
+"706","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2020-07-01
+"707","Large Vessels (91’ beam to under 107’ beam)","Available","403","Booking Slots",2020-07-01
+"708","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2020-07-01
+"709","Regular Vessels (up to 300' in length)","Available","na","Booking Slots",2020-07-01
+"710","Auctioned booking slots","Available","4","Booking Slots",2020-07-01
+"711","Neopanamax Vessels (107’ beam and Over)","Used","1831","Booking Slots",2020-07-01
+"712","Large Vessels (91’ beam to under 107’ beam)","Used","2751","Booking Slots",2020-07-01
+"713","Regular Vessels (less than 91' beam)","Used","1021","Booking Slots",2020-07-01
+"714","Regular Vessels (up to 300' in length)","Used","na","Booking Slots",2020-07-01
+"715","Auctioned booking slots","Used","0","Booking Slots",2020-07-01
+"716","Neopanamax Vessels (107’ beam and Over)","Percentage","7779","Booking Slots",2020-07-01
+"717","Large Vessels (91’ beam to under 107’ beam)","Percentage","6824","Booking Slots",2020-07-01
+"718","Regular Vessels (less than 91' beam)","Percentage","5484","Booking Slots",2020-07-01
+"719","Regular Vessels (up to 300' in length)","Percentage","na","Booking Slots",2020-07-01
+"720","Auctioned booking slots","Percentage","0000","Booking Slots",2020-07-01
+"721","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2021-06-01
+"722","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2021-06-01
+"723","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2021-06-01
+"724","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-06-01
+"725","Auctioned booking slots","Available","77","Booking Slots",2021-06-01
+"726","Neopanamax Vessels (107’ beam and Over)","Used","2231","Booking Slots",2021-06-01
+"727","Large Vessels (91’ beam to under 107’ beam)","Used","3681","Booking Slots",2021-06-01
+"728","Regular Vessels (less than 91' beam)","Used","1291","Booking Slots",2021-06-01
+"729","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-06-01
+"730","Auctioned booking slots","Used","58","Booking Slots",2021-06-01
+"731","Neopanamax Vessels (107’ beam and Over)","Percentage","9292","Booking Slots",2021-06-01
+"732","Large Vessels (91’ beam to under 107’ beam)","Percentage","9436","Booking Slots",2021-06-01
+"733","Regular Vessels (less than 91' beam)","Percentage","7167","Booking Slots",2021-06-01
+"734","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-06-01
+"735","Auctioned booking slots","Percentage","7532","Booking Slots",2021-06-01
+"736","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2020-08-01
+"737","Large Vessels (91’ beam to under 107’ beam)","Available","397","Booking Slots",2020-08-01
+"738","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2020-08-01
+"739","Regular Vessels (up to 300' in length)","Available","na","Booking Slots",2020-08-01
+"740","Auctioned booking slots","Available","21","Booking Slots",2020-08-01
+"741","Neopanamax Vessels (107’ beam and Over)","Used","2011","Booking Slots",2020-08-01
+"742","Large Vessels (91’ beam to under 107’ beam)","Used","3721","Booking Slots",2020-08-01
+"743","Regular Vessels (less than 91' beam)","Used","1131","Booking Slots",2020-08-01
+"744","Regular Vessels (up to 300' in length)","Used","na","Booking Slots",2020-08-01
+"745","Auctioned booking slots","Used","14","Booking Slots",2020-08-01
+"746","Neopanamax Vessels (107’ beam and Over)","Percentage","8105","Booking Slots",2020-08-01
+"747","Large Vessels (91’ beam to under 107’ beam)","Percentage","9370","Booking Slots",2020-08-01
+"748","Regular Vessels (less than 91' beam)","Percentage","6075","Booking Slots",2020-08-01
+"749","Regular Vessels (up to 300' in length)","Percentage","na","Booking Slots",2020-08-01
+"750","Auctioned booking slots","Percentage","6667","Booking Slots",2020-08-01
+"751","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2021-07-01
+"752","Large Vessels (91’ beam to under 107’ beam)","Available","364","Booking Slots",2021-07-01
+"753","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2021-07-01
+"754","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-07-01
+"755","Auctioned booking slots","Available","98","Booking Slots",2021-07-01
+"756","Neopanamax Vessels (107’ beam and Over)","Used","2251","Booking Slots",2021-07-01
+"757","Large Vessels (91’ beam to under 107’ beam)","Used","3431","Booking Slots",2021-07-01
+"758","Regular Vessels (less than 91' beam)","Used","1451","Booking Slots",2021-07-01
+"759","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-07-01
+"760","Auctioned booking slots","Used","69","Booking Slots",2021-07-01
+"761","Neopanamax Vessels (107’ beam and Over)","Percentage","9073","Booking Slots",2021-07-01
+"762","Large Vessels (91’ beam to under 107’ beam)","Percentage","9423","Booking Slots",2021-07-01
+"763","Regular Vessels (less than 91' beam)","Percentage","7796","Booking Slots",2021-07-01
+"764","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-07-01
+"765","Auctioned booking slots","Percentage","7041","Booking Slots",2021-07-01
+"766","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2020-09-01
+"767","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2020-09-01
+"768","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2020-09-01
+"769","Regular Vessels (up to 300' in length)","Available","NA","Booking Slots",2020-09-01
+"770","Auctioned booking slots","Available","33","Booking Slots",2020-09-01
+"771","Neopanamax Vessels (107’ beam and Over)","Used","1961","Booking Slots",2020-09-01
+"772","Large Vessels (91’ beam to under 107’ beam)","Used","3681","Booking Slots",2020-09-01
+"773","Regular Vessels (less than 91' beam)","Used","1351","Booking Slots",2020-09-01
+"774","Regular Vessels (up to 300' in length)","Used","NA","Booking Slots",2020-09-01
+"775","Auctioned booking slots","Used","22","Booking Slots",2020-09-01
+"776","Neopanamax Vessels (107’ beam and Over)","Percentage","8166","Booking Slots",2020-09-01
+"777","Large Vessels (91’ beam to under 107’ beam)","Percentage","9435","Booking Slots",2020-09-01
+"778","Regular Vessels (less than 91' beam)","Percentage","7500","Booking Slots",2020-09-01
+"779","Regular Vessels (up to 300' in length)","Percentage","NA","Booking Slots",2020-09-01
+"780","Auctioned booking slots","Percentage","6667","Booking Slots",2020-09-01
+"781","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2021-08-01
+"782","Large Vessels (91’ beam to under 107’ beam)","Available","403","Booking Slots",2021-08-01
+"783","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2021-08-01
+"784","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-08-01
+"785","Auctioned booking slots","Available","97","Booking Slots",2021-08-01
+"786","Neopanamax Vessels (107’ beam and Over)","Used","2351","Booking Slots",2021-08-01
+"787","Large Vessels (91’ beam to under 107’ beam)","Used","3871","Booking Slots",2021-08-01
+"788","Regular Vessels (less than 91' beam)","Used","1371","Booking Slots",2021-08-01
+"789","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-08-01
+"790","Auctioned booking slots","Used","71","Booking Slots",2021-08-01
+"791","Neopanamax Vessels (107’ beam and Over)","Percentage","9476","Booking Slots",2021-08-01
+"792","Large Vessels (91’ beam to under 107’ beam)","Percentage","9603","Booking Slots",2021-08-01
+"793","Regular Vessels (less than 91' beam)","Percentage","7366","Booking Slots",2021-08-01
+"794","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-08-01
+"795","Auctioned booking slots","Percentage","7320","Booking Slots",2021-08-01
+"796","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2020-10-01
+"797","Large Vessels (91’ beam to under 107’ beam)","Available","403","Booking Slots",2020-10-01
+"798","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2020-10-01
+"799","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2020-10-01
+"800","Auctioned booking slots","Available","45","Booking Slots",2020-10-01
+"801","Neopanamax Vessels (107’ beam and Over)","Used","2341","Booking Slots",2020-10-01
+"802","Large Vessels (91’ beam to under 107’ beam)","Used","3921","Booking Slots",2020-10-01
+"803","Regular Vessels (less than 91' beam)","Used","1341","Booking Slots",2020-10-01
+"804","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2020-10-01
+"805","Auctioned booking slots","Used","31","Booking Slots",2020-10-01
+"806","Neopanamax Vessels (107’ beam and Over)","Percentage","9435","Booking Slots",2020-10-01
+"807","Large Vessels (91’ beam to under 107’ beam)","Percentage","9727","Booking Slots",2020-10-01
+"808","Regular Vessels (less than 91' beam)","Percentage","7204","Booking Slots",2020-10-01
+"809","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2020-10-01
+"810","Auctioned booking slots","Percentage","6889","Booking Slots",2020-10-01
+"811","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2021-09-01
+"812","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2021-09-01
+"813","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2021-09-01
+"814","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-09-01
+"815","Auctioned booking slots","Available","65","Booking Slots",2021-09-01
+"816","Neopanamax Vessels (107’ beam and Over)","Used","2221","Booking Slots",2021-09-01
+"817","Large Vessels (91’ beam to under 107’ beam)","Used","3311","Booking Slots",2021-09-01
+"818","Regular Vessels (less than 91' beam)","Used","1381","Booking Slots",2021-09-01
+"819","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-09-01
+"820","Auctioned booking slots","Used","27","Booking Slots",2021-09-01
+"821","Neopanamax Vessels (107’ beam and Over)","Percentage","9250","Booking Slots",2021-09-01
+"822","Large Vessels (91’ beam to under 107’ beam)","Percentage","8487","Booking Slots",2021-09-01
+"823","Regular Vessels (less than 91' beam)","Percentage","7667","Booking Slots",2021-09-01
+"824","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-09-01
+"825","Auctioned booking slots","Percentage","4154","Booking Slots",2021-09-01
+"826","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2020-11-01
+"827","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2020-11-01
+"828","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2020-11-01
+"829","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2020-11-01
+"830","Auctioned booking slots","Available","36","Booking Slots",2020-11-01
+"831","Neopanamax Vessels (107’ beam and Over)","Used","2311","Booking Slots",2020-11-01
+"832","Large Vessels (91’ beam to under 107’ beam)","Used","3671","Booking Slots",2020-11-01
+"833","Regular Vessels (less than 91' beam)","Used","1411","Booking Slots",2020-11-01
+"834","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2020-11-01
+"835","Auctioned booking slots","Used","19","Booking Slots",2020-11-01
+"836","Neopanamax Vessels (107’ beam and Over)","Percentage","9625","Booking Slots",2020-11-01
+"837","Large Vessels (91’ beam to under 107’ beam)","Percentage","9410","Booking Slots",2020-11-01
+"838","Regular Vessels (less than 91' beam)","Percentage","7833","Booking Slots",2020-11-01
+"839","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2020-11-01
+"840","Auctioned booking slots","Percentage","5277","Booking Slots",2020-11-01
+"841","Neopanamax Vessels (107’ beam and Over)","Available","248","Booking Slots",2021-10-01
+"842","Large Vessels (91’ beam to under 107’ beam)","Available","397","Booking Slots",2021-10-01
+"843","Regular Vessels (less than 91' beam)","Available","186","Booking Slots",2021-10-01
+"844","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-10-01
+"845","Auctioned booking slots","Available","98","Booking Slots",2021-10-01
+"846","Neopanamax Vessels (107’ beam and Over)","Used","2261","Booking Slots",2021-10-01
+"847","Large Vessels (91’ beam to under 107’ beam)","Used","3781","Booking Slots",2021-10-01
+"848","Regular Vessels (less than 91' beam)","Used","1441","Booking Slots",2021-10-01
+"849","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-10-01
+"850","Auctioned booking slots","Used","65","Booking Slots",2021-10-01
+"851","Neopanamax Vessels (107’ beam and Over)","Percentage","9113","Booking Slots",2021-10-01
+"852","Large Vessels (91’ beam to under 107’ beam)","Percentage","9521","Booking Slots",2021-10-01
+"853","Regular Vessels (less than 91' beam)","Percentage","7742","Booking Slots",2021-10-01
+"854","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-10-01
+"855","Auctioned booking slots","Percentage","6633","Booking Slots",2021-10-01
+"856","Neopanamax Vessels (107’ beam and Over)","Available","240","Booking Slots",2021-11-01
+"857","Large Vessels (91’ beam to under 107’ beam)","Available","390","Booking Slots",2021-11-01
+"858","Regular Vessels (less than 91' beam)","Available","180","Booking Slots",2021-11-01
+"859","Regular Vessels (up to 300' in length)","Available","0","Booking Slots",2021-11-01
+"860","Auctioned booking slots","Available","113","Booking Slots",2021-11-01
+"861","Neopanamax Vessels (107’ beam and Over)","Used","2281","Booking Slots",2021-11-01
+"862","Large Vessels (91’ beam to under 107’ beam)","Used","3701","Booking Slots",2021-11-01
+"863","Regular Vessels (less than 91' beam)","Used","1621","Booking Slots",2021-11-01
+"864","Regular Vessels (up to 300' in length)","Used","0","Booking Slots",2021-11-01
+"865","Auctioned booking slots","Used","100","Booking Slots",2021-11-01
+"866","Neopanamax Vessels (107’ beam and Over)","Percentage","9500","Booking Slots",2021-11-01
+"867","Large Vessels (91’ beam to under 107’ beam)","Percentage","9487","Booking Slots",2021-11-01
+"868","Regular Vessels (less than 91' beam)","Percentage","9000","Booking Slots",2021-11-01
+"869","Regular Vessels (up to 300' in length)","Percentage","0","Booking Slots",2021-11-01
+"870","Auctioned booking slots","Percentage","8850","Booking Slots",2021-11-01

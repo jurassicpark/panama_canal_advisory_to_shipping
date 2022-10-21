@@ -1,0 +1,697 @@
+"","Measure","Attribute","Value","Category","Date"
+"1","Arrivals","Daily Average","33.68","Arrivals",2017-12-01
+"2","Oceangoing Transits","Daily Average","33.77","Arrivals",2017-12-01
+"3","Canal Waters Time (hours)","Daily Average","24.53","Arrivals",2017-12-01
+"4","In-Transit Time (hours)","Daily Average","10.39","Arrivals",2017-12-01
+"5","Arrivals","High","47","Arrivals",2017-12-01
+"6","Oceangoing Transits","High","37","Arrivals",2017-12-01
+"7","Canal Waters Time (hours)","High","38.53","Arrivals",2017-12-01
+"8","In-Transit Time (hours)","High","13.59","Arrivals",2017-12-01
+"9","Arrivals","Low","24","Arrivals",2017-12-01
+"10","Oceangoing Transits","Low","28","Arrivals",2017-12-01
+"11","Canal Waters Time (hours)","Low","18.67","Arrivals",2017-12-01
+"12","In-Transit Time (hours)","Low","8.75","Arrivals",2017-12-01
+"13","Arrivals","Daily Average","33.71","Arrivals",2016-12-01
+"14","Oceangoing Transits","Daily Average","33.65","Arrivals",2016-12-01
+"15","Canal Waters Time (hours)","Daily Average","28.90","Arrivals",2016-12-01
+"16","In-Transit Time (hours)","Daily Average","11.20","Arrivals",2016-12-01
+"17","Arrivals","High","53","Arrivals",2016-12-01
+"18","Oceangoing Transits","High","39","Arrivals",2016-12-01
+"19","Canal Waters Time (hours)","High","41.20","Arrivals",2016-12-01
+"20","In-Transit Time (hours)","High","13.95","Arrivals",2016-12-01
+"21","Arrivals","Low","19","Arrivals",2016-12-01
+"22","Oceangoing Transits","Low","28","Arrivals",2016-12-01
+"23","Canal Waters Time (hours)","Low","17.77","Arrivals",2016-12-01
+"24","In-Transit Time (hours)","Low","8.85","Arrivals",2016-12-01
+"25","Arrivals","Daily Average","32.81","Arrivals",2018-12-01
+"26","Oceangoing Transits","Daily Average","32.71","Arrivals",2018-12-01
+"27","Canal Waters Time (hours)","Daily Average","21.87","Arrivals",2018-12-01
+"28","In-Transit Time (hours)","Daily Average","10.28","Arrivals",2018-12-01
+"29","Arrivals","High","42","Arrivals",2018-12-01
+"30","Oceangoing Transits","High","38","Arrivals",2018-12-01
+"31","Canal Waters Time (hours)","High","27.92","Arrivals",2018-12-01
+"32","In-Transit Time (hours)","High","11.67","Arrivals",2018-12-01
+"33","Arrivals","Low","20","Arrivals",2018-12-01
+"34","Oceangoing Transits","Low","22","Arrivals",2018-12-01
+"35","Canal Waters Time (hours)","Low","17.69","Arrivals",2018-12-01
+"36","In-Transit Time (hours)","Low","8.94","Arrivals",2018-12-01
+"37","Arrivals","Daily Average","33.00","Arrivals",2018-01-01
+"38","Oceangoing Transits","Daily Average","33.87","Arrivals",2018-01-01
+"39","Canal Waters Time (hours)","Daily Average","23.35","Arrivals",2018-01-01
+"40","In-Transit Time (hours)","Daily Average","10.19","Arrivals",2018-01-01
+"41","Arrivals","High","43","Arrivals",2018-01-01
+"42","Oceangoing Transits","High","39","Arrivals",2018-01-01
+"43","Canal Waters Time (hours)","High","32.08","Arrivals",2018-01-01
+"44","In-Transit Time (hours)","High","12.49","Arrivals",2018-01-01
+"45","Arrivals","Low","25","Arrivals",2018-01-01
+"46","Oceangoing Transits","Low","27","Arrivals",2018-01-01
+"47","Canal Waters Time (hours)","Low","15.67","Arrivals",2018-01-01
+"48","In-Transit Time (hours)","Low","8.34","Arrivals",2018-01-01
+"49","Arrivals","Daily Average","34.81","Arrivals",2019-01-01
+"50","Oceangoing Transits","Daily Average","34.58","Arrivals",2019-01-01
+"51","Canal Waters Time (hours)","Daily Average","25.58","Arrivals",2019-01-01
+"52","In-Transit Time (hours)","Daily Average","10.46","Arrivals",2019-01-01
+"53","Arrivals","High","43","Arrivals",2019-01-01
+"54","Oceangoing Transits","High","39","Arrivals",2019-01-01
+"55","Canal Waters Time (hours)","High","34.72","Arrivals",2019-01-01
+"56","In-Transit Time (hours)","High","12.30","Arrivals",2019-01-01
+"57","Arrivals","Low","26","Arrivals",2019-01-01
+"58","Oceangoing Transits","Low","28","Arrivals",2019-01-01
+"59","Canal Waters Time (hours)","Low","15.85","Arrivals",2019-01-01
+"60","In-Transit Time (hours)","Low","8.62","Arrivals",2019-01-01
+"61","Arrivals","Daily Average","35.45","Arrivals",2017-01-01
+"62","Oceangoing Transits","Daily Average","35.84","Arrivals",2017-01-01
+"63","Canal Waters Time (hours)","Daily Average","38.79","Arrivals",2017-01-01
+"64","In-Transit Time (hours)","Daily Average","11.83","Arrivals",2017-01-01
+"65","Arrivals","High","45","Arrivals",2017-01-01
+"66","Oceangoing Transits","High","41","Arrivals",2017-01-01
+"67","Canal Waters Time (hours)","High","59.54","Arrivals",2017-01-01
+"68","In-Transit Time (hours)","High","15.23","Arrivals",2017-01-01
+"69","Arrivals","Low","24","Arrivals",2017-01-01
+"70","Oceangoing Transits","Low","28","Arrivals",2017-01-01
+"71","Canal Waters Time (hours)","Low","23.46","Arrivals",2017-01-01
+"72","In-Transit Time (hours)","Low","9.76","Arrivals",2017-01-01
+"73","Arrivals","Daily Average","33.64","Arrivals",2018-02-01
+"74","Oceangoing Transits","Daily Average","33.61","Arrivals",2018-02-01
+"75","Canal Waters Time (hours)","Daily Average","26.76","Arrivals",2018-02-01
+"76","In-Transit Time (hours)","Daily Average","11.15","Arrivals",2018-02-01
+"77","Arrivals","High","43","Arrivals",2018-02-01
+"78","Oceangoing Transits","High","39","Arrivals",2018-02-01
+"79","Canal Waters Time (hours)","High","51.03","Arrivals",2018-02-01
+"80","In-Transit Time (hours)","High","14.41","Arrivals",2018-02-01
+"81","Arrivals","Low","24","Arrivals",2018-02-01
+"82","Oceangoing Transits","Low","30","Arrivals",2018-02-01
+"83","Canal Waters Time (hours)","Low","19.19","Arrivals",2018-02-01
+"84","In-Transit Time (hours)","Low","9.70","Arrivals",2018-02-01
+"85","Arrivals","Daily Average","33.43","Arrivals",2019-02-01
+"86","Oceangoing Transits","Daily Average","34.36","Arrivals",2019-02-01
+"87","Canal Waters Time (hours)","Daily Average","25.94","Arrivals",2019-02-01
+"88","In-Transit Time (hours)","Daily Average","10.16","Arrivals",2019-02-01
+"89","Arrivals","High","44","Arrivals",2019-02-01
+"90","Oceangoing Transits","High","40","Arrivals",2019-02-01
+"91","Canal Waters Time (hours)","High","39.56","Arrivals",2019-02-01
+"92","In-Transit Time (hours)","High","11.19","Arrivals",2019-02-01
+"93","Arrivals","Low","21","Arrivals",2019-02-01
+"94","Oceangoing Transits","Low","26","Arrivals",2019-02-01
+"95","Canal Waters Time (hours)","Low","18.17","Arrivals",2019-02-01
+"96","In-Transit Time (hours)","Low","7.45","Arrivals",2019-02-01
+"97","Arrivals","Daily Average","34.86","Arrivals",2017-02-01
+"98","Oceangoing Transits","Daily Average","35.11","Arrivals",2017-02-01
+"99","Canal Waters Time (hours)","Daily Average","27.86","Arrivals",2017-02-01
+"100","In-Transit Time (hours)","Daily Average","11.46","Arrivals",2017-02-01
+"101","Arrivals","High","46","Arrivals",2017-02-01
+"102","Oceangoing Transits","High","40","Arrivals",2017-02-01
+"103","Canal Waters Time (hours)","High","35.41","Arrivals",2017-02-01
+"104","In-Transit Time (hours)","High","12.82","Arrivals",2017-02-01
+"105","Arrivals","Low","24","Arrivals",2017-02-01
+"106","Oceangoing Transits","Low","32","Arrivals",2017-02-01
+"107","Canal Waters Time (hours)","Low","20.75","Arrivals",2017-02-01
+"108","In-Transit Time (hours)","Low","9.90","Arrivals",2017-02-01
+"109","Arrivals","Daily Average","34.52","Arrivals",2018-03-01
+"110","Oceangoing Transits","Daily Average","35.10","Arrivals",2018-03-01
+"111","Canal Waters Time (hours)","Daily Average","27.66","Arrivals",2018-03-01
+"112","In-Transit Time (hours)","Daily Average","10.91","Arrivals",2018-03-01
+"113","Arrivals","High","45","Arrivals",2018-03-01
+"114","Oceangoing Transits","High","39","Arrivals",2018-03-01
+"115","Canal Waters Time (hours)","High","47.73","Arrivals",2018-03-01
+"116","In-Transit Time (hours)","High","13.20","Arrivals",2018-03-01
+"117","Arrivals","Low","22","Arrivals",2018-03-01
+"118","Oceangoing Transits","Low","30","Arrivals",2018-03-01
+"119","Canal Waters Time (hours)","Low","19.03","Arrivals",2018-03-01
+"120","In-Transit Time (hours)","Low","9.31","Arrivals",2018-03-01
+"121","Arrivals","Daily Average","34.26","Arrivals",2019-03-01
+"122","Oceangoing Transits","Daily Average","34.42","Arrivals",2019-03-01
+"123","Canal Waters Time (hours)","Daily Average","22.27","Arrivals",2019-03-01
+"124","In-Transit Time (hours)","Daily Average","9.89","Arrivals",2019-03-01
+"125","Arrivals","High","49","Arrivals",2019-03-01
+"126","Oceangoing Transits","High","40","Arrivals",2019-03-01
+"127","Canal Waters Time (hours)","High","29.22","Arrivals",2019-03-01
+"128","In-Transit Time (hours)","High","12.37","Arrivals",2019-03-01
+"129","Arrivals","Low","22","Arrivals",2019-03-01
+"130","Oceangoing Transits","Low","28","Arrivals",2019-03-01
+"131","Canal Waters Time (hours)","Low","17.42","Arrivals",2019-03-01
+"132","In-Transit Time (hours)","Low","8.43","Arrivals",2019-03-01
+"133","Arrivals","Daily Average","33.50","Arrivals",2018-04-01
+"134","Oceangoing Transits","Daily Average","33.80","Arrivals",2018-04-01
+"135","Canal Waters Time (hours)","Daily Average","28.61","Arrivals",2018-04-01
+"136","In-Transit Time (hours)","Daily Average","11.64","Arrivals",2018-04-01
+"137","Arrivals","High","43","Arrivals",2018-04-01
+"138","Oceangoing Transits","High","39","Arrivals",2018-04-01
+"139","Canal Waters Time (hours)","High","44.38","Arrivals",2018-04-01
+"140","In-Transit Time (hours)","High","15.60","Arrivals",2018-04-01
+"141","Arrivals","Low","24","Arrivals",2018-04-01
+"142","Oceangoing Transits","Low","28","Arrivals",2018-04-01
+"143","Canal Waters Time (hours)","Low","19.03","Arrivals",2018-04-01
+"144","In-Transit Time (hours)","Low","9.33","Arrivals",2018-04-01
+"145","Arrivals","Daily Average","33.87","Arrivals",2017-03-01
+"146","Oceangoing Transits","Daily Average","34.55","Arrivals",2017-03-01
+"147","Canal Waters Time (hours)","Daily Average","27.46","Arrivals",2017-03-01
+"148","In-Transit Time (hours)","Daily Average","11.69","Arrivals",2017-03-01
+"149","Arrivals","High","45","Arrivals",2017-03-01
+"150","Oceangoing Transits","High","40","Arrivals",2017-03-01
+"151","Canal Waters Time (hours)","High","46.75","Arrivals",2017-03-01
+"152","In-Transit Time (hours)","High","14.17","Arrivals",2017-03-01
+"153","Arrivals","Low","15","Arrivals",2017-03-01
+"154","Oceangoing Transits","Low","26","Arrivals",2017-03-01
+"155","Canal Waters Time (hours)","Low","17.95","Arrivals",2017-03-01
+"156","In-Transit Time (hours)","Low","9.34","Arrivals",2017-03-01
+"157","Arrivals","Daily Average","33.77","Arrivals",2019-04-01
+"158","Oceangoing Transits","Daily Average","33.53","Arrivals",2019-04-01
+"159","Canal Waters Time (hours)","Daily Average","23.19","Arrivals",2019-04-01
+"160","In-Transit Time (hours)","Daily Average","9.97","Arrivals",2019-04-01
+"161","Arrivals","High","48","Arrivals",2019-04-01
+"162","Oceangoing Transits","High","38","Arrivals",2019-04-01
+"163","Canal Waters Time (hours)","High","33.53","Arrivals",2019-04-01
+"164","In-Transit Time (hours)","High","12.27","Arrivals",2019-04-01
+"165","Arrivals","Low","24","Arrivals",2019-04-01
+"166","Oceangoing Transits","Low","27","Arrivals",2019-04-01
+"167","Canal Waters Time (hours)","Low","15.55","Arrivals",2019-04-01
+"168","In-Transit Time (hours)","Low","7.55","Arrivals",2019-04-01
+"169","Arrivals","Daily Average","33.83","Arrivals",2017-04-01
+"170","Oceangoing Transits","Daily Average","33.87","Arrivals",2017-04-01
+"171","Canal Waters Time (hours)","Daily Average","26.35","Arrivals",2017-04-01
+"172","In-Transit Time (hours)","Daily Average","11.56","Arrivals",2017-04-01
+"173","Arrivals","High","46","Arrivals",2017-04-01
+"174","Oceangoing Transits","High","38","Arrivals",2017-04-01
+"175","Canal Waters Time (hours)","High","36.00","Arrivals",2017-04-01
+"176","In-Transit Time (hours)","High","13.03","Arrivals",2017-04-01
+"177","Arrivals","Low","27","Arrivals",2017-04-01
+"178","Oceangoing Transits","Low","30","Arrivals",2017-04-01
+"179","Canal Waters Time (hours)","Low","19.23","Arrivals",2017-04-01
+"180","In-Transit Time (hours)","Low","8.95","Arrivals",2017-04-01
+"181","Arrivals","Daily Average","31.45","Arrivals",2017-05-01
+"182","Oceangoing Transits","Daily Average","31.94","Arrivals",2017-05-01
+"183","Canal Waters Time (hours)","Daily Average","24.87","Arrivals",2017-05-01
+"184","In-Transit Time (hours)","Daily Average","11.64","Arrivals",2017-05-01
+"185","Arrivals","High","44","Arrivals",2017-05-01
+"186","Oceangoing Transits","High","38","Arrivals",2017-05-01
+"187","Canal Waters Time (hours)","High","41.23","Arrivals",2017-05-01
+"188","In-Transit Time (hours)","High","13.37","Arrivals",2017-05-01
+"189","Arrivals","Low","21","Arrivals",2017-05-01
+"190","Oceangoing Transits","Low","25","Arrivals",2017-05-01
+"191","Canal Waters Time (hours)","Low","17.11","Arrivals",2017-05-01
+"192","In-Transit Time (hours)","Low","9.07","Arrivals",2017-05-01
+"193","Arrivals","Daily Average","33.13","Arrivals",2019-05-01
+"194","Oceangoing Transits","Daily Average","33.29","Arrivals",2019-05-01
+"195","Canal Waters Time (hours)","Daily Average","25.07","Arrivals",2019-05-01
+"196","In-Transit Time (hours)","Daily Average","10.37","Arrivals",2019-05-01
+"197","Arrivals","High","46","Arrivals",2019-05-01
+"198","Oceangoing Transits","High","40","Arrivals",2019-05-01
+"199","Canal Waters Time (hours)","High","37.17","Arrivals",2019-05-01
+"200","In-Transit Time (hours)","High","12.63","Arrivals",2019-05-01
+"201","Arrivals","Low","24","Arrivals",2019-05-01
+"202","Oceangoing Transits","Low","28","Arrivals",2019-05-01
+"203","Canal Waters Time (hours)","Low","15.62","Arrivals",2019-05-01
+"204","In-Transit Time (hours)","Low","8.75","Arrivals",2019-05-01
+"205","Arrivals","Daily Average","34.71","Arrivals",2018-05-01
+"206","Oceangoing Transits","Daily Average","34.48","Arrivals",2018-05-01
+"207","Canal Waters Time (hours)","Daily Average","24.97","Arrivals",2018-05-01
+"208","In-Transit Time (hours)","Daily Average","11.11","Arrivals",2018-05-01
+"209","Arrivals","High","53","Arrivals",2018-05-01
+"210","Oceangoing Transits","High","40","Arrivals",2018-05-01
+"211","Canal Waters Time (hours)","High","40.10","Arrivals",2018-05-01
+"212","In-Transit Time (hours)","High","13.28","Arrivals",2018-05-01
+"213","Arrivals","Low","25","Arrivals",2018-05-01
+"214","Oceangoing Transits","Low","29","Arrivals",2018-05-01
+"215","Canal Waters Time (hours)","Low","18.53","Arrivals",2018-05-01
+"216","In-Transit Time (hours)","Low","9.11","Arrivals",2018-05-01
+"217","Arrivals","Daily Average","28.27","Arrivals",2017-06-01
+"218","Oceangoing Transits","Daily Average","29.63","Arrivals",2017-06-01
+"219","Canal Waters Time (hours)","Daily Average","26.03","Arrivals",2017-06-01
+"220","In-Transit Time (hours)","Daily Average","11.07","Arrivals",2017-06-01
+"221","Arrivals","High","39","Arrivals",2017-06-01
+"222","Oceangoing Transits","High","35","Arrivals",2017-06-01
+"223","Canal Waters Time (hours)","High","70.17","Arrivals",2017-06-01
+"224","In-Transit Time (hours)","High","13.01","Arrivals",2017-06-01
+"225","Arrivals","Low","21","Arrivals",2017-06-01
+"226","Oceangoing Transits","Low","23","Arrivals",2017-06-01
+"227","Canal Waters Time (hours)","Low","17.54","Arrivals",2017-06-01
+"228","In-Transit Time (hours)","Low","9.38","Arrivals",2017-06-01
+"229","Arrivals","Daily Average","32.00","Arrivals",2017-07-01
+"230","Oceangoing Transits","Daily Average","32.81","Arrivals",2017-07-01
+"231","Canal Waters Time (hours)","Daily Average","29.83","Arrivals",2017-07-01
+"232","In-Transit Time (hours)","Daily Average","11.34","Arrivals",2017-07-01
+"233","Arrivals","High","42","Arrivals",2017-07-01
+"234","Oceangoing Transits","High","36","Arrivals",2017-07-01
+"235","Canal Waters Time (hours)","High","39.55","Arrivals",2017-07-01
+"236","In-Transit Time (hours)","High","14.09","Arrivals",2017-07-01
+"237","Arrivals","Low","24","Arrivals",2017-07-01
+"238","Oceangoing Transits","Low","28","Arrivals",2017-07-01
+"239","Canal Waters Time (hours)","Low","23.01","Arrivals",2017-07-01
+"240","In-Transit Time (hours)","Low","9.74","Arrivals",2017-07-01
+"241","Arrivals","Daily Average","31.03","Arrivals",2018-06-01
+"242","Oceangoing Transits","Daily Average","31.83","Arrivals",2018-06-01
+"243","Canal Waters Time (hours)","Daily Average","22.03","Arrivals",2018-06-01
+"244","In-Transit Time (hours)","Daily Average","10.64","Arrivals",2018-06-01
+"245","Arrivals","High","39","Arrivals",2018-06-01
+"246","Oceangoing Transits","High","37","Arrivals",2018-06-01
+"247","Canal Waters Time (hours)","High","29.17","Arrivals",2018-06-01
+"248","In-Transit Time (hours)","High","13.16","Arrivals",2018-06-01
+"249","Arrivals","Low","22","Arrivals",2018-06-01
+"250","Oceangoing Transits","Low","25","Arrivals",2018-06-01
+"251","Canal Waters Time (hours)","Low","16.64","Arrivals",2018-06-01
+"252","In-Transit Time (hours)","Low","8.67","Arrivals",2018-06-01
+"253","Arrivals","Daily Average","32.10","Arrivals",2019-06-01
+"254","Oceangoing Transits","Daily Average","32.50","Arrivals",2019-06-01
+"255","Canal Waters Time (hours)","Daily Average","22.14","Arrivals",2019-06-01
+"256","In-Transit Time (hours)","Daily Average","9.88","Arrivals",2019-06-01
+"257","Arrivals","High","42","Arrivals",2019-06-01
+"258","Oceangoing Transits","High","36","Arrivals",2019-06-01
+"259","Canal Waters Time (hours)","High","33.59","Arrivals",2019-06-01
+"260","In-Transit Time (hours)","High","12.21","Arrivals",2019-06-01
+"261","Arrivals","Low","25","Arrivals",2019-06-01
+"262","Oceangoing Transits","Low","28","Arrivals",2019-06-01
+"263","Canal Waters Time (hours)","Low","17.42","Arrivals",2019-06-01
+"264","In-Transit Time (hours)","Low","8.15","Arrivals",2019-06-01
+"265","Arrivals","Daily Average","31.94","Arrivals",2018-07-01
+"266","Oceangoing Transits","Daily Average","32.19","Arrivals",2018-07-01
+"267","Canal Waters Time (hours)","Daily Average","23.59","Arrivals",2018-07-01
+"268","In-Transit Time (hours)","Daily Average","10.54","Arrivals",2018-07-01
+"269","Arrivals","High","44","Arrivals",2018-07-01
+"270","Oceangoing Transits","High","37","Arrivals",2018-07-01
+"271","Canal Waters Time (hours)","High","33.98","Arrivals",2018-07-01
+"272","In-Transit Time (hours)","High","12.44","Arrivals",2018-07-01
+"273","Arrivals","Low","22","Arrivals",2018-07-01
+"274","Oceangoing Transits","Low","26","Arrivals",2018-07-01
+"275","Canal Waters Time (hours)","Low","16.80","Arrivals",2018-07-01
+"276","In-Transit Time (hours)","Low","8.93","Arrivals",2018-07-01
+"277","Arrivals","Daily Average","33.00","Arrivals",2019-07-01
+"278","Oceangoing Transits","Daily Average","32.29","Arrivals",2019-07-01
+"279","Canal Waters Time (hours)","Daily Average","24.85","Arrivals",2019-07-01
+"280","In-Transit Time (hours)","Daily Average","10.40","Arrivals",2019-07-01
+"281","Arrivals","High","44","Arrivals",2019-07-01
+"282","Oceangoing Transits","High","36","Arrivals",2019-07-01
+"283","Canal Waters Time (hours)","High","34.92","Arrivals",2019-07-01
+"284","In-Transit Time (hours)","High","12.90","Arrivals",2019-07-01
+"285","Arrivals","Low","26","Arrivals",2019-07-01
+"286","Oceangoing Transits","Low","29","Arrivals",2019-07-01
+"287","Canal Waters Time (hours)","Low","18.89","Arrivals",2019-07-01
+"288","In-Transit Time (hours)","Low","8.80","Arrivals",2019-07-01
+"289","Arrivals","Daily Average","32.06","Arrivals",2017-08-01
+"290","Oceangoing Transits","Daily Average","31.42","Arrivals",2017-08-01
+"291","Canal Waters Time (hours)","Daily Average","31.53","Arrivals",2017-08-01
+"292","In-Transit Time (hours)","Daily Average","12.03","Arrivals",2017-08-01
+"293","Arrivals","High","45","Arrivals",2017-08-01
+"294","Oceangoing Transits","High","36","Arrivals",2017-08-01
+"295","Canal Waters Time (hours)","High","49.64","Arrivals",2017-08-01
+"296","In-Transit Time (hours)","High","14.76","Arrivals",2017-08-01
+"297","Arrivals","Low","20","Arrivals",2017-08-01
+"298","Oceangoing Transits","Low","25","Arrivals",2017-08-01
+"299","Canal Waters Time (hours)","Low","22.32","Arrivals",2017-08-01
+"300","In-Transit Time (hours)","Low","8.57","Arrivals",2017-08-01
+"301","Arrivals","Daily Average","32.81","Arrivals",2018-08-01
+"302","Oceangoing Transits","Daily Average","32.42","Arrivals",2018-08-01
+"303","Canal Waters Time (hours)","Daily Average","25.80","Arrivals",2018-08-01
+"304","In-Transit Time (hours)","Daily Average","10.64","Arrivals",2018-08-01
+"305","Arrivals","High","44","Arrivals",2018-08-01
+"306","Oceangoing Transits","High","40","Arrivals",2018-08-01
+"307","Canal Waters Time (hours)","High","36.27","Arrivals",2018-08-01
+"308","In-Transit Time (hours)","High","12.21","Arrivals",2018-08-01
+"309","Arrivals","Low","21","Arrivals",2018-08-01
+"310","Oceangoing Transits","Low","25","Arrivals",2018-08-01
+"311","Canal Waters Time (hours)","Low","18.56","Arrivals",2018-08-01
+"312","In-Transit Time (hours)","Low","8.64","Arrivals",2018-08-01
+"313","Arrivals","Daily Average","35.45","Arrivals",2019-08-01
+"314","Oceangoing Transits","Daily Average","35.90","Arrivals",2019-08-01
+"315","Canal Waters Time (hours)","Daily Average","34.25","Arrivals",2019-08-01
+"316","In-Transit Time (hours)","Daily Average","11.55","Arrivals",2019-08-01
+"317","Arrivals","High","47","Arrivals",2019-08-01
+"318","Oceangoing Transits","High","43","Arrivals",2019-08-01
+"319","Canal Waters Time (hours)","High","49.92","Arrivals",2019-08-01
+"320","In-Transit Time (hours)","High","15.10","Arrivals",2019-08-01
+"321","Arrivals","Low","24","Arrivals",2019-08-01
+"322","Oceangoing Transits","Low","30","Arrivals",2019-08-01
+"323","Canal Waters Time (hours)","Low","19.71","Arrivals",2019-08-01
+"324","In-Transit Time (hours)","Low","9.76","Arrivals",2019-08-01
+"325","Arrivals","Daily Average","33.00","Arrivals",2018-09-01
+"326","Oceangoing Transits","Daily Average","33.07","Arrivals",2018-09-01
+"327","Canal Waters Time (hours)","Daily Average","25.51","Arrivals",2018-09-01
+"328","In-Transit Time (hours)","Daily Average","10.79","Arrivals",2018-09-01
+"329","Arrivals","High","48","Arrivals",2018-09-01
+"330","Oceangoing Transits","High","37","Arrivals",2018-09-01
+"331","Canal Waters Time (hours)","High","34.45","Arrivals",2018-09-01
+"332","In-Transit Time (hours)","High","14.68","Arrivals",2018-09-01
+"333","Arrivals","Low","21","Arrivals",2018-09-01
+"334","Oceangoing Transits","Low","27","Arrivals",2018-09-01
+"335","Canal Waters Time (hours)","Low","19.96","Arrivals",2018-09-01
+"336","In-Transit Time (hours)","Low","9.22","Arrivals",2018-09-01
+"337","Arrivals","Daily Average","33.03","Arrivals",2018-10-01
+"338","Oceangoing Transits","Daily Average","33.74","Arrivals",2018-10-01
+"339","Canal Waters Time (hours)","Daily Average","23.83","Arrivals",2018-10-01
+"340","In-Transit Time (hours)","Daily Average","10.17","Arrivals",2018-10-01
+"341","Arrivals","High","43","Arrivals",2018-10-01
+"342","Oceangoing Transits","High","39","Arrivals",2018-10-01
+"343","Canal Waters Time (hours)","High","36.58","Arrivals",2018-10-01
+"344","In-Transit Time (hours)","High","12.20","Arrivals",2018-10-01
+"345","Arrivals","Low","23","Arrivals",2018-10-01
+"346","Oceangoing Transits","Low","27","Arrivals",2018-10-01
+"347","Canal Waters Time (hours)","Low","15.42","Arrivals",2018-10-01
+"348","In-Transit Time (hours)","Low","8.30","Arrivals",2018-10-01
+"349","Arrivals","Daily Average","31.37","Arrivals",2017-09-01
+"350","Oceangoing Transits","Daily Average","32.13","Arrivals",2017-09-01
+"351","Canal Waters Time (hours)","Daily Average","26.27","Arrivals",2017-09-01
+"352","In-Transit Time (hours)","Daily Average","10.90","Arrivals",2017-09-01
+"353","Arrivals","High","44","Arrivals",2017-09-01
+"354","Oceangoing Transits","High","37","Arrivals",2017-09-01
+"355","Canal Waters Time (hours)","High","46.76","Arrivals",2017-09-01
+"356","In-Transit Time (hours)","High","14.46","Arrivals",2017-09-01
+"357","Arrivals","Low","20","Arrivals",2017-09-01
+"358","Oceangoing Transits","Low","27","Arrivals",2017-09-01
+"359","Canal Waters Time (hours)","Low","14.98","Arrivals",2017-09-01
+"360","In-Transit Time (hours)","Low","8.02","Arrivals",2017-09-01
+"361","Arrivals","Daily Average","32.23","Arrivals",2018-11-01
+"362","Oceangoing Transits","Daily Average","32.57","Arrivals",2018-11-01
+"363","Canal Waters Time (hours)","Daily Average","24.52","Arrivals",2018-11-01
+"364","In-Transit Time (hours)","Daily Average","10.23","Arrivals",2018-11-01
+"365","Arrivals","High","41","Arrivals",2018-11-01
+"366","Oceangoing Transits","High","38","Arrivals",2018-11-01
+"367","Canal Waters Time (hours)","High","36.14","Arrivals",2018-11-01
+"368","In-Transit Time (hours)","High","12.06","Arrivals",2018-11-01
+"369","Arrivals","Low","21","Arrivals",2018-11-01
+"370","Oceangoing Transits","Low","26","Arrivals",2018-11-01
+"371","Canal Waters Time (hours)","Low","16.33","Arrivals",2018-11-01
+"372","In-Transit Time (hours)","Low","8.12","Arrivals",2018-11-01
+"373","Arrivals","Daily Average","34.10","Arrivals",2019-09-01
+"374","Oceangoing Transits","Daily Average","34.17","Arrivals",2019-09-01
+"375","Canal Waters Time (hours)","Daily Average","25.64","Arrivals",2019-09-01
+"376","In-Transit Time (hours)","Daily Average","10.36","Arrivals",2019-09-01
+"377","Arrivals","High","55","Arrivals",2019-09-01
+"378","Oceangoing Transits","High","40","Arrivals",2019-09-01
+"379","Canal Waters Time (hours)","High","34.06","Arrivals",2019-09-01
+"380","In-Transit Time (hours)","High","12.53","Arrivals",2019-09-01
+"381","Arrivals","Low","19","Arrivals",2019-09-01
+"382","Oceangoing Transits","Low","30","Arrivals",2019-09-01
+"383","Canal Waters Time (hours)","Low","18.11","Arrivals",2019-09-01
+"384","In-Transit Time (hours)","Low","8.80","Arrivals",2019-09-01
+"385","Arrivals","Daily Average","33.68","Arrivals",2017-10-01
+"386","Oceangoing Transits","Daily Average","34.03","Arrivals",2017-10-01
+"387","Canal Waters Time (hours)","Daily Average","32.86","Arrivals",2017-10-01
+"388","In-Transit Time (hours)","Daily Average","11.69","Arrivals",2017-10-01
+"389","Arrivals","High","48","Arrivals",2017-10-01
+"390","Oceangoing Transits","High","39","Arrivals",2017-10-01
+"391","Canal Waters Time (hours)","High","44.14","Arrivals",2017-10-01
+"392","In-Transit Time (hours)","High","14.90","Arrivals",2017-10-01
+"393","Arrivals","Low","19","Arrivals",2017-10-01
+"394","Oceangoing Transits","Low","30","Arrivals",2017-10-01
+"395","Canal Waters Time (hours)","Low","21.86","Arrivals",2017-10-01
+"396","In-Transit Time (hours)","Low","9.46","Arrivals",2017-10-01
+"397","Arrivals","Daily Average","32.73","Arrivals",2017-11-01
+"398","Oceangoing Transits","Daily Average","33.13","Arrivals",2017-11-01
+"399","Canal Waters Time (hours)","Daily Average","25.83","Arrivals",2017-11-01
+"400","In-Transit Time (hours)","Daily Average","10.75","Arrivals",2017-11-01
+"401","Arrivals","High","44","Arrivals",2017-11-01
+"402","Oceangoing Transits","High","38","Arrivals",2017-11-01
+"403","Canal Waters Time (hours)","High","42.64","Arrivals",2017-11-01
+"404","In-Transit Time (hours)","High","12.31","Arrivals",2017-11-01
+"405","Arrivals","Low","25","Arrivals",2017-11-01
+"406","Oceangoing Transits","Low","25","Arrivals",2017-11-01
+"407","Canal Waters Time (hours)","Low","17.64","Arrivals",2017-11-01
+"408","In-Transit Time (hours)","Low","9.29","Arrivals",2017-11-01
+"409","Arrivals","Daily Average","36.06","Arrivals",2019-10-01
+"410","Oceangoing Transits","Daily Average","36.68","Arrivals",2019-10-01
+"411","Canal Waters Time (hours)","Daily Average","32.95","Arrivals",2019-10-01
+"412","In-Transit Time (hours)","Daily Average","11.85","Arrivals",2019-10-01
+"413","Arrivals","High","46","Arrivals",2019-10-01
+"414","Oceangoing Transits","High","42","Arrivals",2019-10-01
+"415","Canal Waters Time (hours)","High","47.78","Arrivals",2019-10-01
+"416","In-Transit Time (hours)","High","14.52","Arrivals",2019-10-01
+"417","Arrivals","Low","27","Arrivals",2019-10-01
+"418","Oceangoing Transits","Low","30","Arrivals",2019-10-01
+"419","Canal Waters Time (hours)","Low","23.40","Arrivals",2019-10-01
+"420","In-Transit Time (hours)","Low","9.90","Arrivals",2019-10-01
+"421","Arrivals","Daily Average","37.90","Arrivals",2019-11-01
+"422","Oceangoing Transits","Daily Average","37.87","Arrivals",2019-11-01
+"423","Canal Waters Time (hours)","Daily Average","33.01","Arrivals",2019-11-01
+"424","In-Transit Time (hours)","Daily Average","12.21","Arrivals",2019-11-01
+"425","Arrivals","High","56","Arrivals",2019-11-01
+"426","Oceangoing Transits","High","43","Arrivals",2019-11-01
+"427","Canal Waters Time (hours)","High","50.78","Arrivals",2019-11-01
+"428","In-Transit Time (hours)","High","15.36","Arrivals",2019-11-01
+"429","Arrivals","Low","27","Arrivals",2019-11-01
+"430","Oceangoing Transits","Low","32","Arrivals",2019-11-01
+"431","Canal Waters Time (hours)","Low","24.16","Arrivals",2019-11-01
+"432","In-Transit Time (hours)","Low","10.27","Arrivals",2019-11-01
+"433","Arrivals","Daily Average","36.35","Arrivals",2019-12-01
+"434","Oceangoing Transits","Daily Average","36.87","Arrivals",2019-12-01
+"435","Canal Waters Time (hours)","Daily Average","30.62","Arrivals",2019-12-01
+"436","In-Transit Time (hours)","Daily Average","11.88","Arrivals",2019-12-01
+"437","Arrivals","High","50","Arrivals",2019-12-01
+"438","Oceangoing Transits","High","43","Arrivals",2019-12-01
+"439","Canal Waters Time (hours)","High","40.99","Arrivals",2019-12-01
+"440","In-Transit Time (hours)","High","13.63","Arrivals",2019-12-01
+"441","Arrivals","Low","26","Arrivals",2019-12-01
+"442","Oceangoing Transits","Low","29","Arrivals",2019-12-01
+"443","Canal Waters Time (hours)","Low","23.23","Arrivals",2019-12-01
+"444","In-Transit Time (hours)","Low","10.08","Arrivals",2019-12-01
+"445","Arrivals","Daily Average","34.97","Arrivals",2020-12-01
+"446","Oceangoing Transits","Daily Average","35.94","Arrivals",2020-12-01
+"447","Canal Waters Time (hours)","Daily Average","51.76","Arrivals",2020-12-01
+"448","In-Transit Time (hours)","Daily Average","10.98","Arrivals",2020-12-01
+"449","Arrivals","High","46","Arrivals",2020-12-01
+"450","Oceangoing Transits","High","40","Arrivals",2020-12-01
+"451","Canal Waters Time (hours)","High","68.51","Arrivals",2020-12-01
+"452","In-Transit Time (hours)","High","14.48","Arrivals",2020-12-01
+"453","Arrivals","Low","23","Arrivals",2020-12-01
+"454","Oceangoing Transits","Low","31","Arrivals",2020-12-01
+"455","Canal Waters Time (hours)","Low","31.33","Arrivals",2020-12-01
+"456","In-Transit Time (hours)","Low","9.79","Arrivals",2020-12-01
+"457","Arrivals","Daily Average","36.64","Arrivals",2020-01-01
+"458","Oceangoing Transits","Daily Average","36.58","Arrivals",2020-01-01
+"459","Canal Waters Time (hours)","Daily Average","31.73","Arrivals",2020-01-01
+"460","In-Transit Time (hours)","Daily Average","11.80","Arrivals",2020-01-01
+"461","Arrivals","High","44","Arrivals",2020-01-01
+"462","Oceangoing Transits","High","41","Arrivals",2020-01-01
+"463","Canal Waters Time (hours)","High","42.89","Arrivals",2020-01-01
+"464","In-Transit Time (hours)","High","13.24","Arrivals",2020-01-01
+"465","Arrivals","Low","26","Arrivals",2020-01-01
+"466","Oceangoing Transits","Low","30","Arrivals",2020-01-01
+"467","Canal Waters Time (hours)","Low","25.92","Arrivals",2020-01-01
+"468","In-Transit Time (hours)","Low","10.43","Arrivals",2020-01-01
+"469","Arrivals","Daily Average","33.32","Arrivals",2021-01-01
+"470","Oceangoing Transits","Daily Average","34.90","Arrivals",2021-01-01
+"471","Canal Waters Time (hours)","Daily Average","51.88","Arrivals",2021-01-01
+"472","In-Transit Time (hours)","Daily Average","11.59","Arrivals",2021-01-01
+"473","Arrivals","High","47","Arrivals",2021-01-01
+"474","Oceangoing Transits","High","39","Arrivals",2021-01-01
+"475","Canal Waters Time (hours)","High","75.16","Arrivals",2021-01-01
+"476","In-Transit Time (hours)","High","14.45","Arrivals",2021-01-01
+"477","Arrivals","Low","18","Arrivals",2021-01-01
+"478","Oceangoing Transits","Low","31","Arrivals",2021-01-01
+"479","Canal Waters Time (hours)","Low","34.47","Arrivals",2021-01-01
+"480","In-Transit Time (hours)","Low","9.92","Arrivals",2021-01-01
+"481","Arrivals","Daily Average","35.41","Arrivals",2020-02-01
+"482","Oceangoing Transits","Daily Average","35.21","Arrivals",2020-02-01
+"483","Canal Waters Time (hours)","Daily Average","36.84","Arrivals",2020-02-01
+"484","In-Transit Time (hours)","Daily Average","11.76","Arrivals",2020-02-01
+"485","Arrivals","High","45","Arrivals",2020-02-01
+"486","Oceangoing Transits","High","40","Arrivals",2020-02-01
+"487","Canal Waters Time (hours)","High","70.34","Arrivals",2020-02-01
+"488","In-Transit Time (hours)","High","14.96","Arrivals",2020-02-01
+"489","Arrivals","Low","18","Arrivals",2020-02-01
+"490","Oceangoing Transits","Low","32","Arrivals",2020-02-01
+"491","Canal Waters Time (hours)","Low","20.71","Arrivals",2020-02-01
+"492","In-Transit Time (hours)","Low","9.51","Arrivals",2020-02-01
+"493","Arrivals","Daily Average","34.71","Arrivals",2021-02-01
+"494","Oceangoing Transits","Daily Average","35.36","Arrivals",2021-02-01
+"495","Canal Waters Time (hours)","Daily Average","38.68","Arrivals",2021-02-01
+"496","In-Transit Time (hours)","Daily Average","10.41","Arrivals",2021-02-01
+"497","Arrivals","High","45","Arrivals",2021-02-01
+"498","Oceangoing Transits","High","38","Arrivals",2021-02-01
+"499","Canal Waters Time (hours)","High","71.53","Arrivals",2021-02-01
+"500","In-Transit Time (hours)","High","12.83","Arrivals",2021-02-01
+"501","Arrivals","Low","26","Arrivals",2021-02-01
+"502","Oceangoing Transits","Low","29","Arrivals",2021-02-01
+"503","Canal Waters Time (hours)","Low","21.22","Arrivals",2021-02-01
+"504","In-Transit Time (hours)","Low","8.30","Arrivals",2021-02-01
+"505","Arrivals","Daily Average","28.00","Arrivals",2020-05-01
+"506","Oceangoing Transits","Daily Average","28.84","Arrivals",2020-05-01
+"507","Canal Waters Time (hours)","Daily Average","26.21","Arrivals",2020-05-01
+"508","In-Transit Time (hours)","Daily Average","10.08","Arrivals",2020-05-01
+"509","Arrivals","High","38","Arrivals",2020-05-01
+"510","Oceangoing Transits","High","34","Arrivals",2020-05-01
+"511","Canal Waters Time (hours)","High","45.32","Arrivals",2020-05-01
+"512","In-Transit Time (hours)","High","12.75","Arrivals",2020-05-01
+"513","Arrivals","Low","19","Arrivals",2020-05-01
+"514","Oceangoing Transits","Low","23","Arrivals",2020-05-01
+"515","Canal Waters Time (hours)","Low","17.80","Arrivals",2020-05-01
+"516","In-Transit Time (hours)","Low","7.94","Arrivals",2020-05-01
+"517","Arrivals","Daily Average","34.58","Arrivals",2021-03-01
+"518","Oceangoing Transits","Daily Average","35.45","Arrivals",2021-03-01
+"519","Canal Waters Time (hours)","Daily Average","38.15","Arrivals",2021-03-01
+"520","In-Transit Time (hours)","Daily Average","10.55","Arrivals",2021-03-01
+"521","Arrivals","High","47","Arrivals",2021-03-01
+"522","Oceangoing Transits","High","39","Arrivals",2021-03-01
+"523","Canal Waters Time (hours)","High","50.88","Arrivals",2021-03-01
+"524","In-Transit Time (hours)","High","12.41","Arrivals",2021-03-01
+"525","Arrivals","Low","21","Arrivals",2021-03-01
+"526","Oceangoing Transits","Low","28","Arrivals",2021-03-01
+"527","Canal Waters Time (hours)","Low","25.49","Arrivals",2021-03-01
+"528","In-Transit Time (hours)","Low","9.27","Arrivals",2021-03-01
+"529","Arrivals","Daily Average","33.50","Arrivals",2021-04-01
+"530","Oceangoing Transits","Daily Average","34.43","Arrivals",2021-04-01
+"531","Canal Waters Time (hours)","Daily Average","35.14","Arrivals",2021-04-01
+"532","In-Transit Time (hours)","Daily Average","10.58","Arrivals",2021-04-01
+"533","Arrivals","High","47","Arrivals",2021-04-01
+"534","Oceangoing Transits","High","38","Arrivals",2021-04-01
+"535","Canal Waters Time (hours)","High","53.73","Arrivals",2021-04-01
+"536","In-Transit Time (hours)","High","12.75","Arrivals",2021-04-01
+"537","Arrivals","Low","21","Arrivals",2021-04-01
+"538","Oceangoing Transits","Low","29","Arrivals",2021-04-01
+"539","Canal Waters Time (hours)","Low","22.19","Arrivals",2021-04-01
+"540","In-Transit Time (hours)","Low","9.27","Arrivals",2021-04-01
+"541","Arrivals","Daily Average","27.83","Arrivals",2020-06-01
+"542","Oceangoing Transits","Daily Average","28.17","Arrivals",2020-06-01
+"543","Canal Waters Time (hours)","Daily Average","25.13","Arrivals",2020-06-01
+"544","In-Transit Time (hours)","Daily Average","9.42","Arrivals",2020-06-01
+"545","Arrivals","High","41","Arrivals",2020-06-01
+"546","Oceangoing Transits","High","34","Arrivals",2020-06-01
+"547","Canal Waters Time (hours)","High","37.05","Arrivals",2020-06-01
+"548","In-Transit Time (hours)","High","11.21","Arrivals",2020-06-01
+"549","Arrivals","Low","19","Arrivals",2020-06-01
+"550","Oceangoing Transits","Low","23","Arrivals",2020-06-01
+"551","Canal Waters Time (hours)","Low","15.87","Arrivals",2020-06-01
+"552","In-Transit Time (hours)","Low","7.92","Arrivals",2020-06-01
+"553","Arrivals","Daily Average","32.48","Arrivals",2021-05-01
+"554","Oceangoing Transits","Daily Average","33.10","Arrivals",2021-05-01
+"555","Canal Waters Time (hours)","Daily Average","38.46","Arrivals",2021-05-01
+"556","In-Transit Time (hours)","Daily Average","10.78","Arrivals",2021-05-01
+"557","Arrivals","High","43","Arrivals",2021-05-01
+"558","Oceangoing Transits","High","37","Arrivals",2021-05-01
+"559","Canal Waters Time (hours)","High","56.73","Arrivals",2021-05-01
+"560","In-Transit Time (hours)","High","13.01","Arrivals",2021-05-01
+"561","Arrivals","Low","25","Arrivals",2021-05-01
+"562","Oceangoing Transits","Low","29","Arrivals",2021-05-01
+"563","Canal Waters Time (hours)","Low","20.99","Arrivals",2021-05-01
+"564","In-Transit Time (hours)","Low","9.10","Arrivals",2021-05-01
+"565","Arrivals","Daily Average","30.03","Arrivals",2020-07-01
+"566","Oceangoing Transits","Daily Average","30.10","Arrivals",2020-07-01
+"567","Canal Waters Time (hours)","Daily Average","28.34","Arrivals",2020-07-01
+"568","In-Transit Time (hours)","Daily Average","10.25","Arrivals",2020-07-01
+"569","Arrivals","High","38","Arrivals",2020-07-01
+"570","Oceangoing Transits","High","33","Arrivals",2020-07-01
+"571","Canal Waters Time (hours)","High","19.00","Arrivals",2020-07-01
+"572","In-Transit Time (hours)","High","8.41","Arrivals",2020-07-01
+"573","Arrivals","Low","19","Arrivals",2020-07-01
+"574","Oceangoing Transits","Low","23","Arrivals",2020-07-01
+"575","Canal Waters Time (hours)","Low","40.38","Arrivals",2020-07-01
+"576","In-Transit Time (hours)","Low","11.89","Arrivals",2020-07-01
+"577","Arrivals","Daily Average","32.30","Arrivals",2021-06-01
+"578","Oceangoing Transits","Daily Average","33.17","Arrivals",2021-06-01
+"579","Canal Waters Time (hours)","Daily Average","34.02","Arrivals",2021-06-01
+"580","In-Transit Time (hours)","Daily Average","10.89","Arrivals",2021-06-01
+"581","Arrivals","High","52","Arrivals",2021-06-01
+"582","Oceangoing Transits","High","37","Arrivals",2021-06-01
+"583","Canal Waters Time (hours)","High","46.90","Arrivals",2021-06-01
+"584","In-Transit Time (hours)","High","13.88","Arrivals",2021-06-01
+"585","Arrivals","Low","21","Arrivals",2021-06-01
+"586","Oceangoing Transits","Low","28","Arrivals",2021-06-01
+"587","Canal Waters Time (hours)","Low","18.37","Arrivals",2021-06-01
+"588","In-Transit Time (hours)","Low","9.54","Arrivals",2021-06-01
+"589","Arrivals","Daily Average","31.68","Arrivals",2020-08-01
+"590","Oceangoing Transits","Daily Average","32.26","Arrivals",2020-08-01
+"591","Canal Waters Time (hours)","Daily Average","31.35","Arrivals",2020-08-01
+"592","In-Transit Time (hours)","Daily Average","9.88","Arrivals",2020-08-01
+"593","Arrivals","High","45","Arrivals",2020-08-01
+"594","Oceangoing Transits","High","39","Arrivals",2020-08-01
+"595","Canal Waters Time (hours)","High","61.23","Arrivals",2020-08-01
+"596","In-Transit Time (hours)","High","12.85","Arrivals",2020-08-01
+"597","Arrivals","Low","18","Arrivals",2020-08-01
+"598","Oceangoing Transits","Low","28","Arrivals",2020-08-01
+"599","Canal Waters Time (hours)","Low","15.27","Arrivals",2020-08-01
+"600","In-Transit Time (hours)","Low","7.83","Arrivals",2020-08-01
+"601","Arrivals","Daily Average","34.26","Arrivals",2021-07-01
+"602","Oceangoing Transits","Daily Average","33.68","Arrivals",2021-07-01
+"603","Canal Waters Time (hours)","Daily Average","51.04","Arrivals",2021-07-01
+"604","In-Transit Time (hours)","Daily Average","12.36","Arrivals",2021-07-01
+"605","Arrivals","High","46","Arrivals",2021-07-01
+"606","Oceangoing Transits","High","42","Arrivals",2021-07-01
+"607","Canal Waters Time (hours)","High","95.43","Arrivals",2021-07-01
+"608","In-Transit Time (hours)","High","15.01","Arrivals",2021-07-01
+"609","Arrivals","Low","26","Arrivals",2021-07-01
+"610","Oceangoing Transits","Low","26","Arrivals",2021-07-01
+"611","Canal Waters Time (hours)","Low","24.36","Arrivals",2021-07-01
+"612","In-Transit Time (hours)","Low","9.97","Arrivals",2021-07-01
+"613","Arrivals","Daily Average","32.10","Arrivals",2020-09-01
+"614","Oceangoing Transits","Daily Average","31.63","Arrivals",2020-09-01
+"615","Canal Waters Time (hours)","Daily Average","38.58","Arrivals",2020-09-01
+"616","In-Transit Time (hours)","Daily Average","9.89","Arrivals",2020-09-01
+"617","Arrivals","High","41","Arrivals",2020-09-01
+"618","Oceangoing Transits","High","38","Arrivals",2020-09-01
+"619","Canal Waters Time (hours)","High","57.06","Arrivals",2020-09-01
+"620","In-Transit Time (hours)","High","12.21","Arrivals",2020-09-01
+"621","Arrivals","Low","19","Arrivals",2020-09-01
+"622","Oceangoing Transits","Low","27","Arrivals",2020-09-01
+"623","Canal Waters Time (hours)","Low","22.66","Arrivals",2020-09-01
+"624","In-Transit Time (hours)","Low","8.57","Arrivals",2020-09-01
+"625","Arrivals","Daily Average","33.39","Arrivals",2021-08-01
+"626","Oceangoing Transits","Daily Average","35.52","Arrivals",2021-08-01
+"627","Canal Waters Time (hours)","Daily Average","37.99","Arrivals",2021-08-01
+"628","In-Transit Time (hours)","Daily Average","10.84","Arrivals",2021-08-01
+"629","Arrivals","High","53","Arrivals",2021-08-01
+"630","Oceangoing Transits","High","42","Arrivals",2021-08-01
+"631","Canal Waters Time (hours)","High","64.30","Arrivals",2021-08-01
+"632","In-Transit Time (hours)","High","12.91","Arrivals",2021-08-01
+"633","Arrivals","Low","22","Arrivals",2021-08-01
+"634","Oceangoing Transits","Low","29","Arrivals",2021-08-01
+"635","Canal Waters Time (hours)","Low","20.62","Arrivals",2021-08-01
+"636","In-Transit Time (hours)","Low","9.45","Arrivals",2021-08-01
+"637","Arrivals","Daily Average","34.42","Arrivals",2020-10-01
+"638","Oceangoing Transits","Daily Average","35.39","Arrivals",2020-10-01
+"639","Canal Waters Time (hours)","Daily Average","47.49","Arrivals",2020-10-01
+"640","In-Transit Time (hours)","Daily Average","10.85","Arrivals",2020-10-01
+"641","Arrivals","High","47","Arrivals",2020-10-01
+"642","Oceangoing Transits","High","38","Arrivals",2020-10-01
+"643","Canal Waters Time (hours)","High","63.43","Arrivals",2020-10-01
+"644","In-Transit Time (hours)","High","13.75","Arrivals",2020-10-01
+"645","Arrivals","Low","22","Arrivals",2020-10-01
+"646","Oceangoing Transits","Low","31","Arrivals",2020-10-01
+"647","Canal Waters Time (hours)","Low","21.80","Arrivals",2020-10-01
+"648","In-Transit Time (hours)","Low","9.10","Arrivals",2020-10-01
+"649","Arrivals","Daily Average","30.10","Arrivals",2021-09-01
+"650","Oceangoing Transits","Daily Average","30.17","Arrivals",2021-09-01
+"651","Canal Waters Time (hours)","Daily Average","24.21","Arrivals",2021-09-01
+"652","In-Transit Time (hours)","Daily Average","10.06","Arrivals",2021-09-01
+"653","Arrivals","High","38","Arrivals",2021-09-01
+"654","Oceangoing Transits","High","34","Arrivals",2021-09-01
+"655","Canal Waters Time (hours)","High","44.26","Arrivals",2021-09-01
+"656","In-Transit Time (hours)","High","12.90","Arrivals",2021-09-01
+"657","Arrivals","Low","22","Arrivals",2021-09-01
+"658","Oceangoing Transits","Low","23","Arrivals",2021-09-01
+"659","Canal Waters Time (hours)","Low","16.55","Arrivals",2021-09-01
+"660","In-Transit Time (hours)","Low","8.70","Arrivals",2021-09-01
+"661","Arrivals","Daily Average","34.43","Arrivals",2020-11-01
+"662","Oceangoing Transits","Daily Average","35.00","Arrivals",2020-11-01
+"663","Canal Waters Time (hours)","Daily Average","39.53","Arrivals",2020-11-01
+"664","In-Transit Time (hours)","Daily Average","10.94","Arrivals",2020-11-01
+"665","Arrivals","High","50","Arrivals",2020-11-01
+"666","Oceangoing Transits","High","38","Arrivals",2020-11-01
+"667","Canal Waters Time (hours)","High","59.06","Arrivals",2020-11-01
+"668","In-Transit Time (hours)","High","13.77","Arrivals",2020-11-01
+"669","Arrivals","Low","20","Arrivals",2020-11-01
+"670","Oceangoing Transits","Low","28","Arrivals",2020-11-01
+"671","Canal Waters Time (hours)","Low","23.42","Arrivals",2020-11-01
+"672","In-Transit Time (hours)","Low","9.27","Arrivals",2020-11-01
+"673","Arrivals","Daily Average","34.90","Arrivals",2021-10-01
+"674","Oceangoing Transits","Daily Average","34.23","Arrivals",2021-10-01
+"675","Canal Waters Time (hours)","Daily Average","38.57","Arrivals",2021-10-01
+"676","In-Transit Time (hours)","Daily Average","11.02","Arrivals",2021-10-01
+"677","Arrivals","High","46","Arrivals",2021-10-01
+"678","Oceangoing Transits","High","40","Arrivals",2021-10-01
+"679","Canal Waters Time (hours)","High","59.99","Arrivals",2021-10-01
+"680","In-Transit Time (hours)","High","13.47","Arrivals",2021-10-01
+"681","Arrivals","Low","23","Arrivals",2021-10-01
+"682","Oceangoing Transits","Low","28","Arrivals",2021-10-01
+"683","Canal Waters Time (hours)","Low","21.27","Arrivals",2021-10-01
+"684","In-Transit Time (hours)","Low","9.02","Arrivals",2021-10-01
+"685","Arrivals","Daily Average","37.30","Arrivals",2021-11-01
+"686","Oceangoing Transits","Daily Average","37.80","Arrivals",2021-11-01
+"687","Canal Waters Time (hours)","Daily Average","46.42","Arrivals",2021-11-01
+"688","In-Transit Time (hours)","Daily Average","11.19","Arrivals",2021-11-01
+"689","Arrivals","High","54","Arrivals",2021-11-01
+"690","Oceangoing Transits","High","41","Arrivals",2021-11-01
+"691","Canal Waters Time (hours)","High","66.43","Arrivals",2021-11-01
+"692","In-Transit Time (hours)","High","14.32","Arrivals",2021-11-01
+"693","Arrivals","Low","26","Arrivals",2021-11-01
+"694","Oceangoing Transits","Low","33","Arrivals",2021-11-01
+"695","Canal Waters Time (hours)","Low","24.67","Arrivals",2021-11-01
+"696","In-Transit Time (hours)","Low","9.72","Arrivals",2021-11-01
